@@ -56,9 +56,10 @@ dfSites3 <- tibble(dfSites2) |>
 
 dfSites4 <- tibble(dfSites3) |> 
   filter(Management.Regime == "Wood establishment") |> 
-  mutate(Year = as.numeric(Year)) |> 
+  mutate(Year = as.numeric(Year),
+         Area_ha = as.numeric(Area_ha)) |> 
   filter(Year <= 2005) |> 
-  mutate(WoodAge = 2025 - Year) |> 
+  mutate(WoodAge = 2026 - Year) |> 
   filter(WoodAge <=30)
 
 dfSites4
@@ -73,12 +74,18 @@ ggplot(dfSites4, aes(x=Year, fill = Region))+
   #facet_wrap(~Region, nrow = 2) + 
   theme(axis.text.x = element_text(angle = 45))
 
-unique(dfSites4$WoodName) # 50 sites
-unique(dfSites4$SiteManager)
-mean(dfSites4$Hectares) # average site size
-mean(as.numeric(dfSites4$Area_ha)) # average subcompartment size
+unique(dfSites4$WoodName) # 46 sites
+mean(dfSites4$Hectares) # average site size 127ha
+
+ggplot(dfSites4, aes(x=Hectares))+
+  geom_histogram(binwidth = 50) # but most are less than 100
+
+mean(dfSites4$Area_ha) # average subcompartment size 31ha
+
+ggplot(dfSites4, aes(x=Area_ha))+
+  geom_histogram(binwidth = 25) # but most less than 5
 
 # work out creation site age from PlantingDate in creation history data
 
 # pull out site manager names for relevant sites
-
+unique(dfSites4$SiteManager)
