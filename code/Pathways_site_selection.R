@@ -9,7 +9,7 @@ library(tidyverse)
 
 ### directories ----------------------------------------------------------------
 
-wd <- "~/R/Data-Analysis/WT-creation-data"
+wd <- "~/R/Data-Analysis/WT_creation_data"
 dirData <- paste0(wd,"/data-raw/")
 dirScratch <- paste0(wd,"/data-scratch/")
 dirOut <- paste0(wd,"/data-out/")
