@@ -18,22 +18,44 @@ dirFigs <- paste0(wd,"/figures/")
 ### read in data ---------------------------------------------------------------
 
 dfSites <- read.csv(paste0(dirData,"WT_sites.csv"))
-head(dfSites)
+tibble(dfSites)
 
 dfCompartments <- read.csv(paste0(dirData,"WT_subcompartments.csv"))
-head(dfCompartments)
+tibble(dfCompartments)
+dfCompartments$ManUnit <- as.integer(dfCompartments$ManUnit)
 
 dfEDSubcomps <- read.csv(paste0(dirData,"ED_compartments.csv"))
-head(dfEDSubcomps)
 
 dfCreation <- read.csv(paste0(dirData,"Creation-history.csv"))
-head(dfCreation)
+tibble(dfCreation)
 
 ### do stuff -------------------------------------------------------------------
 
 # join sites and subcompartments by ManUnit. need to keep all subcomps & duplicate site records
 
+dfSites |> 
+  count(ManUnit) |> 
+  filter(n > 1)
+
+dfCompartments |> 
+  count(ManUnit)
+
+dfSites2 <- dfSites |> 
+  select(WoodName,ManUnit,Region,SiteManager,Hectares) |> 
+  left_join(dfCompartments |> mutate(Cpt = Cpt..) |>  select(ManUnit,Cpt,SubCpt,Area_ha), relationship = "many-to-many")
+
+tibble(dfSites2)
+
 # join with ED data to get management regime and main species
+
+tibble(dfEDSubcomps)
+
+dfSites3 <- dfSites2 |> 
+  left_join(dfEDSubcomps |> mutate(WoodName = Site.Name) |> select(WoodName, Cpt, SubCpt, Management.Regime, Main.Species, Secondary.Species, Year))
+
+# filter to just woodland establishment
+
+
 
 # work out creation site age from PlantingDate in creation history data
 
