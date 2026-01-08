@@ -64,10 +64,12 @@ dfSites4 <- tibble(dfSites3) |>
 
 dfSites4
 
-ggplot(dfSites4, aes(x=Main.Species, fill = Main.Species))+
+(p1 <- ggplot(dfSites4, aes(x=Main.Species, fill = Main.Species))+
   geom_bar()+
   facet_wrap(~Region, nrow = 2) + 
-  theme(axis.text.x = element_text(angle = 90))
+  theme(axis.text.x = element_text(angle = 90)))
+
+ggsave(filename = paste0(dirFigs,"WT_creation_20-30yrs_by_region_&_main_spp.jpg"), p1)
 
 ggplot(dfSites4, aes(x=Year, fill = Region))+
   geom_bar()+
