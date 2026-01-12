@@ -6,6 +6,7 @@
 ### packages -------------------------------------------------------------------
 
 library(tidyverse)
+library(sf)
 
 ### directories ----------------------------------------------------------------
 
@@ -25,6 +26,10 @@ dfCompartments$ManUnit <- as.integer(dfCompartments$ManUnit)
 dfEDSubcomps <- tibble(read.csv(paste0(dirData,"ED_compartments.csv")))
 
 dfCreation <- tibble(read.csv(paste0(dirData,"Creation-history.csv")))
+
+# spatial versions
+sfSubcomps <- st_read(paste0(dirData,"Subcompartments GB.shp"))
+
 
 ### do stuff -------------------------------------------------------------------
 
@@ -69,7 +74,7 @@ dfSites4
   facet_wrap(~Region, nrow = 2) + 
   theme(axis.text.x = element_text(angle = 90)))
 
-ggsave(filename = paste0(dirFigs,"WT_creation_20-30yrs_by_region_&_main_spp.jpg"), p1)
+ggsave(filename = paste0(dirFigs,"WT_creation_20-30yrs_by_region_and_main_spp.jpg"), p1)
 
 ggplot(dfSites4, aes(x=Year, fill = Region))+
   geom_bar()+
