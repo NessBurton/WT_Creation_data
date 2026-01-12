@@ -28,8 +28,8 @@ dfEDSubcomps <- tibble(read.csv(paste0(dirData,"ED_compartments.csv")))
 dfCreation <- tibble(read.csv(paste0(dirData,"Creation-history.csv")))
 
 # spatial versions
-sfSubcomps <- st_read(paste0(dirData,"Subcompartments GB.shp"))
-
+sfSubcomps <- st_read(paste0(dirData,"Management Units Polygons GBv2.shp"))
+sfSubcomps
 
 ### do stuff -------------------------------------------------------------------
 
