@@ -63,6 +63,7 @@ dfSites4 <- tibble(dfSites3) |>
   filter(Management.Regime == "Wood establishment") |> 
   mutate(Year = as.numeric(Year),
          Area_ha = as.numeric(Area_ha)) |> 
+  # add something for at least 5 ha
   filter(Year <= 2005) |> 
   mutate(WoodAge = 2026 - Year) |> 
   filter(WoodAge <=30)
