@@ -64,6 +64,7 @@ dfSites4 <- tibble(dfSites3) |>
   mutate(Year = as.numeric(Year),
          Area_ha = as.numeric(Area_ha)) |> 
   # add something for at least 5 ha
+  filter(Area_ha >= 5) |> 
   filter(Year <= 2005) |> 
   mutate(WoodAge = 2026 - Year) |> 
   filter(WoodAge <=30)
@@ -75,7 +76,7 @@ dfSites4
   facet_wrap(~Region, nrow = 2) + 
   theme(axis.text.x = element_text(angle = 90)))
 
-ggsave(filename = paste0(dirFigs,"WT_creation_20-30yrs_by_region_and_main_spp.jpg"), p1)
+ggsave(filename = paste0(dirFigs,"WT_creation_20-30yrs_min5ha_by_region_and_main_spp.jpg"), p1)
 
 ggplot(dfSites4, aes(x=Year, fill = Region))+
   geom_bar()+
@@ -93,7 +94,19 @@ mean(dfSites4$Area_ha) # average subcompartment size 31ha
 ggplot(dfSites4, aes(x=Area_ha))+
   geom_histogram(binwidth = 25) # but most less than 5
 
-# work out creation site age from PlantingDate in creation history data
-
 # pull out site manager names for relevant sites
 unique(dfSites4$SiteManager)
+
+### plot sites in a region -----------------------------------------------------
+
+sfSites <- sfSubcomps |> 
+  left_join(dfSites4) |> 
+  #select(WoodName, Cpt, SubCpt, Management.Regime, Main.Species, Secondary.Species, Year)
+  filter(#CAR == "Central",
+         #Hectares >= 5,
+         WoodAge <= 30) #|>  
+
+ggplot(sfSites)+
+  geom_sf(aes(fill = SM, colour  = SM))+
+  theme_minimal()
+  
