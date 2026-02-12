@@ -63,9 +63,9 @@ dfSites4 <- tibble(dfSites3) |>
   filter(Management.Regime == "Wood establishment") |> 
   mutate(Year = as.numeric(Year),
          Area_ha = as.numeric(Area_ha),
-         Ha_band = ifelse(Area_ha <= 5, "0-5",
-                          ifelse(Area_ha <=25, "6-25",
-                                 ifelse(Area_ha <=50, "26-50","50+")))) |> 
+         Ha_band = ifelse(Area_ha <= 5, "0-5ha",
+                          ifelse(Area_ha <=25, "6-25ha",
+                                 ifelse(Area_ha <=50, "26-50ha","50+ha")))) |> 
   # add something for at least 5 ha
   #filter(Area_ha >= 5) |> 
   filter(Year >= 2000) |> 
@@ -84,7 +84,7 @@ dfSites4
 ggsave(filename = paste0(dirFigs,"WT_creation_by_region_and_main_spp.jpg"), p1)
 
 dfSites4 <- dfSites4|> 
-  mutate(Ha_band = factor(Ha_band, levels = c("0-5", "6-25", "26-50", "50+")))
+  mutate(Ha_band = factor(Ha_band, levels = c("0-5ha", "6-25ha", "26-50ha", "50+ha")))
 
 (p2 <- ggplot(dfSites4, aes(x=Year, fill = Region))+
   geom_bar()+

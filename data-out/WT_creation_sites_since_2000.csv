@@ -1,302 +1,302 @@
 "","WoodName","ManUnit","Region","SiteManager","Hectares","Cpt","SubCpt","Area_ha","Management.Regime","Main.Species","Secondary.Species","Year","Ha_band","WoodAge"
-"1","Aldouran Glen",4869,"Scotland","Daniel Aiken",13.11,2,"b",3.8,"Wood establishment","Birch (downy/silver)","Mixed native broadleaves",2002,"0-5",24
-"2","Aldouran Glen",4869,"Scotland","Daniel Aiken",13.11,1,"c",0.11,"Wood establishment","Oak (sessile)","Mixed broadleaves",2002,"0-5",24
-"3","Kilmagad Wood",5123,"Scotland","Izzy Filor",26.84,4,"f",2.61,"Wood establishment","Mixed native broadleaves","NULL",2010,"0-5",16
-"4","Kilmagad Wood",5123,"Scotland","Izzy Filor",26.84,1,"c",0.81,"Wood establishment","Oak (sessile)","Mixed native broadleaves",2016,"0-5",10
-"5","Kilmagad Wood",5123,"Scotland","Izzy Filor",26.84,3,"c",4.11,"Wood establishment","Mixed native broadleaves","Mixed broadleaves",2010,"0-5",16
-"6","Kilmagad Wood",5123,"Scotland","Izzy Filor",26.84,4,"a",0.5,"Wood establishment","Mixed native broadleaves","Mixed broadleaves",2003,"0-5",23
-"7","Kilmagad Wood",5123,"Scotland","Izzy Filor",26.84,5,"a",1.44,"Wood establishment","Mixed native broadleaves","NULL",2009,"0-5",17
-"8","Kilmagad Wood",5123,"Scotland","Izzy Filor",26.84,5,"c",2.68,"Wood establishment","Mixed native broadleaves","NULL",2010,"0-5",16
-"9","Butterdean Wood",4907,"Scotland","Daniel Aiken",42.15,1,"c",5.51,"Wood establishment","NULL","NULL",2020,"6-25",6
-"10","Butterdean Wood",4907,"Scotland","Daniel Aiken",42.15,2,"b",3.13,"Wood establishment","NULL","NULL",2020,"0-5",6
-"11","Thwaitestones",4278,"North","Jess Darwin",14.92,2,"b",2.42,"Wood establishment","Mixed native broadleaves","Mixed native broadleaves",2002,"0-5",24
-"12","Hedley Hall",4459,"North","Sam Jama",43.3,4,"c",13.48,"Wood establishment","Oak (pedunculate)","Hazel",2019,"6-25",7
-"13","Hedley Hall",4459,"North","Sam Jama",43.3,4,"a",13.65,"Wood establishment","Aspen","Scots pine",2018,"6-25",8
-"14","Scaleber Wood",5254,"North","Jess Darwin",1.03,2,"a",2.62,"Wood establishment","Ash","Mixed native broadleaves",2000,"0-5",26
-"15","Eliburn Woods",4885,"Scotland","Hannah Patterson",7.81,17,"b",0.39,"Wood establishment","Mixed native broadleaves","Hawthorn species",2012,"0-5",14
-"16","Wilderness",4890,"Scotland","Hannah Patterson",18.58,40,"d",1.39,"Wood establishment","Mixed native broadleaves","NULL",2012,"0-5",14
-"17","Wilderness",4890,"Scotland","Hannah Patterson",18.58,40,"b",0.54,"Wood establishment","Mixed native broadleaves","NULL",2012,"0-5",14
-"18","Longacre Wood",5545,"North","Neil Oxley",2.3,1,"a",2.3,"Wood establishment","Oak (pedunculate)","Ash",2004,"0-5",22
-"19","Longacre Wood",5545,"North","Neil Oxley",2.3,2,"a",3.19,"Wood establishment","Oak (pedunculate)","Ash",2005,"0-5",21
-"20","North Wood",4881,"Scotland","Hannah Patterson",35.23,1,"b",1.62,"Wood establishment","Mixed native broadleaves","Sycamore",2016,"0-5",10
-"21","North Wood",4881,"Scotland","Hannah Patterson",35.23,1,"j",2.16,"Wood establishment","Mixed conifers","Mixed broadleaves",2016,"0-5",10
-"22","Nut Wood",4067,"Central","Luke Shenton",5.1,2,"b",17.06,"Wood establishment","Alder species","NULL",2001,"6-25",25
-"23","Coed Dolifor",4085,"Wales","Rob Davies",11.54,2,"f",0.05,"Wood establishment","Birch (downy/silver)","NULL",2013,"0-5",13
-"24","King's Cliffe Millennium Wood",5291,"Central","Matt George",4.51,1,"a",4.51,"Wood establishment","Alder species","NULL",2000,"0-5",26
-"25","Coed Cwr y Pwll",5248,"Wales","John Phillips",6.62,1,"a",3.55,"Wood establishment","Oak (sessile)","Ash",2000,"0-5",26
-"26","Coed Cwr y Pwll",5248,"Wales","John Phillips",6.62,1,"b",0.54,"Wood establishment","Hazel","Hawthorn species",2000,"0-5",26
-"27","Gibbet Hill Wood",5144,"Central","Matt George",10.36,2,"a",0.5,"Wood establishment","Ash","NULL",2000,"0-5",26
-"28","Gibbet Hill Wood",5144,"Central","Matt George",10.36,1,"a",9.87,"Wood establishment","Ash","NULL",2000,"6-25",26
-"29","Coed Geufron",5299,"Wales","Rebecca Good",9.79,2,"b",2.71,"Wood establishment","Oak (sessile)","Birch (downy/silver)",2000,"0-5",26
-"30","Coed Geufron",5299,"Wales","Rebecca Good",9.79,1,"a",2.08,"Wood establishment","Oak (sessile)","Birch (downy/silver)",2000,"0-5",26
-"31","Lanteague Wood",5405,"Wales","Chris Matts",7.94,1,"a",8.05,"Wood establishment","Ash","Oak (sessile)",2001,"6-25",25
-"32","Coed Aberneint",5435,"Wales","John Phillips",2.83,1,"c",1.29,"Wood establishment","Ash","Hazel",2000,"0-5",26
-"33","Coed y Bobl",5445,"Wales","Rebecca Good",6.84,1,"a",3.38,"Wood establishment","Birch (downy/silver)","Rowan",2000,"0-5",26
-"34","Coed y Bobl",5445,"Wales","Rebecca Good",6.84,1,"b",2.6,"Wood establishment","Birch (downy/silver)","Rowan",2000,"0-5",26
-"35","Mill Field Wood",5210,"Central","David Logan",7.76,1,"a",3.46,"Wood establishment","Mixed broadleaves","NULL",2000,"0-5",26
-"36","Mill Field Wood",5210,"Central","David Logan",7.76,2,"a",3.02,"Wood establishment","Mixed broadleaves","NULL",2000,"0-5",26
-"37","Haroldswood",5439,"Wales","Rebecca Good",0.61,1,"a",0.61,"Wood establishment","Hazel","Hazel",2000,"0-5",26
-"38","Highbury Fields",5406,"South West","Richard Brown",21.89,1,"a",1.66,"Wood establishment","NULL","NULL",2023,"0-5",3
-"39","Highbury Fields",5406,"South West","Richard Brown",21.89,1,"b",1.34,"Wood establishment","NULL","NULL",2023,"0-5",3
-"40","Highbury Fields",5406,"South West","Richard Brown",21.89,1,"c",1.44,"Wood establishment","Goat willow","Hazel",2020,"0-5",6
-"41","Highbury Fields",5406,"South West","Richard Brown",21.89,1,"f",2.35,"Wood establishment","Silver birch","Mixed broadleaves",2023,"0-5",3
-"42","Highbury Fields",5406,"South West","Richard Brown",21.89,1,"e",0.46,"Wood establishment","Wild cherry/gean","Oak (pedunculate)",2004,"0-5",22
-"43","Highbury Fields",5406,"South West","Richard Brown",21.89,1,"d",0.99,"Wood establishment","Silver birch","Mixed broadleaves",2023,"0-5",3
-"44","Coed yr Hwrdd",5418,"Wales","Chris Matts",4.55,1,"a",4.55,"Wood establishment","Ash","Oak (sessile)",2000,"0-5",26
-"45","Coed Pibwr",5428,"Wales","Chris Matts",5.02,1,"a",5.02,"Wood establishment","Oak (sessile)","Ash",2001,"6-25",25
-"46","Coed Pencwm",5431,"Wales","Chris Matts",3.45,1,"a",2.84,"Wood establishment","Ash","Bird cherry",2001,"0-5",25
-"47","Banovallum Carr",5374,"North","James Jesson",4.38,1,"b",3.75,"Wood establishment","Common alder","NULL",2007,"0-5",19
-"48","St Martin's Wood",5223,"Wales","Chris Matts",6.71,1,"a",6.2,"Wood establishment","Ash","Mixed broadleaves",2000,"6-25",26
-"49","Coed Tregib",4101,"Wales","Chris Matts",27.8,2,"a",9.19,"Wood establishment","Ash","Alder species",2006,"6-25",20
-"50","Coed y Foel",4193,"Wales","Rebecca Good",14.19,8,"a",4.08,"Wood establishment","Mixed native broadleaves","Open ground",2015,"0-5",11
-"51","Coed y Foel",4193,"Wales","Rebecca Good",14.19,7,"a",4.63,"Wood establishment","Mixed native broadleaves","Open ground",2015,"0-5",11
-"52","Coed y Foel",4193,"Wales","Rebecca Good",14.19,5,"a",8.75,"Wood establishment","Mixed native broadleaves","NULL",2016,"6-25",10
-"53","Coed y Foel",4193,"Wales","Rebecca Good",14.19,6,"a",7.73,"Wood establishment","Mixed native broadleaves","NULL",2016,"6-25",10
-"54","Coed y Foel",4193,"Wales","Rebecca Good",14.19,9,"a",14.06,"Wood establishment","Open ground","Mixed broadleaves",2017,"6-25",9
-"55","Coed y Foel",4193,"Wales","Rebecca Good",5.28,8,"a",4.08,"Wood establishment","Mixed native broadleaves","Open ground",2015,"0-5",11
-"56","Coed y Foel",4193,"Wales","Rebecca Good",5.28,7,"a",4.63,"Wood establishment","Mixed native broadleaves","Open ground",2015,"0-5",11
-"57","Coed y Foel",4193,"Wales","Rebecca Good",5.28,5,"a",8.75,"Wood establishment","Mixed native broadleaves","NULL",2016,"6-25",10
-"58","Coed y Foel",4193,"Wales","Rebecca Good",5.28,6,"a",7.73,"Wood establishment","Mixed native broadleaves","NULL",2016,"6-25",10
-"59","Coed y Foel",4193,"Wales","Rebecca Good",5.28,9,"a",14.06,"Wood establishment","Open ground","Mixed broadleaves",2017,"6-25",9
-"60","Coed Allt Beili Coch",4313,"Wales","Rebecca Good",3.28,1,"a",1.5,"Wood establishment","Ash","other willows",2000,"0-5",26
-"61","Piddington Wood",4383,"South East","James Stevenson",9.76,3,"b",3.15,"Wood establishment","Mixed native broadleaves","Open ground",2003,"0-5",23
-"62","Granner Wood",4690,"Wales","Rob Davies",9.67,1,"d",1.4,"Wood establishment","Mixed native broadleaves","Douglas fir",2022,"0-5",4
-"63","Whitemill Common & Roughets Wood",4262,"Wales","Rob Davies",5.62,1,"b",0.8,"Wood establishment","Birch (downy/silver)","Rowan",2000,"0-5",26
-"64","Tring Park",4675,"Central","Luke Shenton",106.85,10,"a",17.87,"Wood establishment","Mixed native broadleaves","NULL",2018,"6-25",8
-"65","Penguin Wood at Botany Bay",5598,"Central","David Logan",38.81,1,"b",8.39,"Wood establishment","Mixed native broadleaves","NULL",2007,"6-25",19
-"66","Stratfield Brake",4481,"South East","James Stevenson",11.23,1,"c",2.91,"Wood establishment","Oak (pedunculate)","Field maple",2012,"0-5",14
-"67","Parc Mawr",4153,"Wales","John Phillips",33.94,3,"b",10.08,"Wood establishment","Oak (sessile)","Hazel",2000,"6-25",26
-"68","Worney Wood",5400,"Wales","Chris Matts",4.99,1,"a",4.99,"Wood establishment","Ash","Sessile oak",2000,"0-5",26
-"69","Trenant Wood",4500,"South West","Malcolm Allen",33.02,3,"a",17.05,"Wood establishment","Oak (sessile)","Birch (downy/silver)",2023,"6-25",3
-"70","Trenant Wood",4500,"South West","Malcolm Allen",33.02,5,"a",5.28,"Wood establishment","Oak (sessile)","Birch (downy/silver)",2006,"6-25",20
-"71","Trenant Wood",4500,"South West","Malcolm Allen",33.02,5,"d",5.15,"Wood establishment","Mixed native broadleaves","Mixed native broadleaves",2008,"6-25",18
-"72","Trenant Wood",4500,"South West","Malcolm Allen",33.02,5,"b",6.68,"Wood establishment","Oak (sessile)","Birch (downy/silver)",2007,"6-25",19
-"73","Trenant Wood",4500,"South West","Malcolm Allen",33.02,5,"c",7.93,"Wood establishment","Oak (sessile)","Birch (downy/silver)",2007,"6-25",19
-"74","Trenant Wood",4500,"South West","Malcolm Allen",33.02,5,"f",6.17,"Wood establishment","Mixed native broadleaves","Mixed native broadleaves",2008,"6-25",18
-"75","Trenant Wood",4500,"South West","Malcolm Allen",33.02,5,"e",7.2,"Wood establishment","Mixed native broadleaves","Mixed native broadleaves",2008,"6-25",18
-"76","Culvery Wood",4919,"South West","Emily Bennett",2.38,1,"c",0.39,"Wood establishment","Mixed native broadleaves","NULL",2016,"0-5",10
-"77","Pucketts Wood",4513,"South West","Sam Hamer",7.84,2,"a",1.91,"Wood establishment","Blackthorn","Hawthorn species",2018,"0-5",8
-"78","Granllyn Pool",5161,"Wales","Rebecca Good",2.06,3,"a",1.24,"Wood establishment","Oak (sessile)","Birch (downy/silver)",2005,"0-5",21
-"79","Cefn Ila",5611,"Wales","Rob Davies",28.77,2,"a",6.82,"Wood establishment","Mixed broadleaves","NULL",2007,"6-25",19
-"80","Cefn Ila",5611,"Wales","Rob Davies",28.77,4,"a",5.09,"Wood establishment","Mixed broadleaves","NULL",2008,"6-25",18
-"81","Cefn Ila",5611,"Wales","Rob Davies",28.77,1,"a",4.75,"Wood establishment","Mixed broadleaves","NULL",2009,"0-5",17
-"82","Cefn Ila",5611,"Wales","Rob Davies",28.77,5,"a",6,"Wood establishment","Mixed broadleaves","NULL",2007,"6-25",19
-"83","Cefn Ila",5611,"Wales","Rob Davies",28.77,3,"a",3.18,"Wood establishment","Mixed broadleaves","NULL",2007,"0-5",19
-"84","George Henry Wood",5603,"Central","David Logan",32.5,1,"a",22.52,"Wood establishment","Mixed native broadleaves","NULL",2008,"6-25",18
-"85","George Henry Wood",5603,"Central","David Logan",32.5,2,"a",4.89,"Wood establishment","Mixed native broadleaves","NULL",2009,"0-5",17
-"86","Duncliffe Wood",4136,"South West","Sam Hamer",87.43,8,"a",1.95,"Wood establishment","Mixed native broadleaves","NULL",2012,"0-5",14
-"87","Coed Ysgubor Wen",5612,"Wales","John Phillips",42.48,1,"a",3.17,"Wood establishment","Ash","Sessile oak",2010,"0-5",16
-"88","Coed Ysgubor Wen",5612,"Wales","John Phillips",42.48,2,"a",4.15,"Wood establishment","Oak (sessile)","Ash",2009,"0-5",17
-"89","Coed Ysgubor Wen",5612,"Wales","John Phillips",42.48,2,"b",2.28,"Wood establishment","Oak (sessile)","Ash",2009,"0-5",17
-"90","Coed Ysgubor Wen",5612,"Wales","John Phillips",42.48,3,"a",14.07,"Wood establishment","Oak (sessile)","Ash",2010,"6-25",16
-"91","Coed Ysgubor Wen",5612,"Wales","John Phillips",42.48,4,"a",7.03,"Wood establishment","Ash","Sessile oak",2010,"6-25",16
-"92","Victory Wood",5571,"South East","Andrew Goodwin",140.4,3,"c",2.42,"Wood establishment","Mixed native broadleaves","NULL",2014,"0-5",12
-"93","Victory Wood",5571,"South East","Andrew Goodwin",140.4,2,"b",13.41,"Wood establishment","Mixed native broadleaves","NULL",2013,"6-25",13
-"94","Victory Wood",5571,"South East","Andrew Goodwin",140.4,3,"b",0.13,"Wood establishment","Hawthorn species","NULL",2014,"0-5",12
-"95","Victory Wood",5571,"South East","Andrew Goodwin",140.4,3,"d",1.93,"Wood establishment","Mixed native broadleaves","NULL",2014,"0-5",12
-"96","Kentle Wood",5305,"Central","Matt George",11.9,2,"a",0.72,"Wood establishment","Oak (pedunculate)","NULL",2020,"0-5",6
-"97","Hucking Estate",4776,"South East","Sam Pettman",234.55,1,"d",3.5,"Wood establishment","Oak (pedunculate)","Field maple",2000,"0-5",26
-"98","Hucking Estate",4776,"South East","Sam Pettman",234.55,1,"e",2,"Wood establishment","Oak (pedunculate)","Small-leaved lime",2014,"0-5",12
-"99","Hucking Estate",4776,"South East","Sam Pettman",234.55,1,"f",4.64,"Wood establishment","Oak (pedunculate)","Hornbeam",2010,"0-5",16
-"100","Hucking Estate",4776,"South East","Sam Pettman",234.55,1,"g",0.57,"Wood establishment","Oak (pedunculate)","Field maple",2013,"0-5",13
-"101","Hucking Estate",4776,"South East","Sam Pettman",234.55,1,"a",22.85,"Wood establishment","Oak (pedunculate)","Hornbeam",2000,"6-25",26
-"102","Hucking Estate",4776,"South East","Sam Pettman",234.55,6,"a",9.09,"Wood establishment","Hawthorn species","Oak (pedunculate)",2018,"6-25",8
-"103","Hucking Estate",4776,"South East","Sam Pettman",234.55,6,"e",2.66,"Wood establishment","Hawthorn species","Oak (pedunculate)",2018,"0-5",8
-"104","Hucking Estate",4776,"South East","Sam Pettman",234.55,6,"c",5.88,"Wood establishment","Hawthorn species","Oak (pedunculate)",2018,"6-25",8
-"105","Hucking Estate",4776,"South East","Sam Pettman",234.55,6,"f",9.02,"Wood establishment","Hawthorn species","Oak (pedunculate)",2018,"6-25",8
-"106","Hucking Estate",4776,"South East","Sam Pettman",234.55,6,"h",1.63,"Wood establishment","Hawthorn species","Oak (pedunculate)",2018,"0-5",8
-"107","Hucking Estate",4776,"South East","Sam Pettman",234.55,6,"i",4.35,"Wood establishment","Hawthorn species","Oak (pedunculate)",2018,"0-5",8
-"108","Hucking Estate",4776,"South East","Sam Pettman",234.55,7,"c",12.6,"Wood establishment","Pedunculate/common oak","Hornbeam",2021,"6-25",5
-"109","Park Wood",4152,"Wales","Rob Davies",56.46,4,"b",1.49,"Wood establishment","Mixed native broadleaves","NULL",2022,"0-5",4
-"110","Knightsridge Woods",4884,"Scotland","Hannah Patterson",13.07,13,"b",0.95,"Wood establishment","Mixed broadleaves","Alder species",2000,"0-5",26
-"111","Pressmennan Wood",4908,"Scotland","Daniel Aiken",85.87,3,"b",2.44,"Wood establishment","Mixed native broadleaves","Mixed broadleaves",2003,"0-5",23
-"112","Pressmennan Wood",4908,"Scotland","Daniel Aiken",85.87,3,"g",2.27,"Wood establishment","Mixed native broadleaves","Other",2003,"0-5",23
-"113","Pressmennan Wood",4908,"Scotland","Daniel Aiken",85.87,4,"b",0.18,"Wood establishment","Downy birch","European larch",2008,"0-5",18
-"114","Moncreiffe Hill",4909,"Scotland","Jill Aitken",127.62,5,"a",4.41,"Wood establishment","Mixed native broadleaves","NULL",2011,"0-5",15
-"115","Low Burnhall",5621,"North","John Wilson",67.26,41,"b",2.4,"Wood establishment","Oak (sessile)","Ash",2012,"0-5",14
-"116","Low Burnhall",5621,"North","John Wilson",67.26,41,"e",12.73,"Wood establishment","Oak (sessile)","Birch (downy/silver)",2012,"6-25",14
-"117","Low Burnhall",5621,"North","John Wilson",67.26,41,"f",4.93,"Wood establishment","Oak (sessile)","Ash",2011,"0-5",15
-"118","Low Burnhall",5621,"North","John Wilson",67.26,41,"h",3.06,"Wood establishment","Oak (sessile)","Ash",2011,"0-5",15
-"119","Low Burnhall",5621,"North","John Wilson",67.26,41,"j",4.06,"Wood establishment","Oak (sessile)","Ash",2011,"0-5",15
-"120","Low Burnhall",5621,"North","John Wilson",67.26,41,"k",10.02,"Wood establishment","Oak (sessile)","Ash",2010,"6-25",16
-"121","Low Burnhall",5621,"North","John Wilson",67.26,41,"p",0.75,"Wood establishment","other willows","Alder species",2010,"0-5",16
-"122","Low Burnhall",5621,"North","John Wilson",67.26,41,"n",2.33,"Wood establishment","Oak (sessile)","Ash",2010,"0-5",16
-"123","Low Burnhall",5621,"North","John Wilson",67.26,41,"o",2.35,"Wood establishment","Ash","Oak (sessile)",2010,"0-5",16
-"124","Low Burnhall",5621,"North","John Wilson",67.26,41,"s",1.09,"Wood establishment","Ash","Oak (sessile)",2010,"0-5",16
-"125","Low Burnhall",5621,"North","John Wilson",67.26,41,"l",3.71,"Wood establishment","Alder species","other willows",2011,"0-5",15
-"126","Low Burnhall",5621,"North","John Wilson",67.26,41,"d",6.39,"Wood establishment","Oak (sessile)","Ash",2012,"6-25",14
-"127","Low Burnhall",5621,"North","John Wilson",67.26,41,"c",1.2,"Wood establishment","Oak (sessile)","Rowan",2012,"0-5",14
-"128","Low Burnhall",5621,"North","John Wilson",67.26,41,"m",3.75,"Wood establishment","Oak (sessile)","Ash",2010,"0-5",16
-"129","Low Burnhall",5621,"North","John Wilson",67.26,41,"q",2.2,"Wood establishment","Oak (sessile)","Ash",2010,"0-5",16
-"130","Cwm Mynach",5630,"Wales","John Phillips",382.43,1,"a",6.47,"Wood establishment","Oak (sessile)","Birch (downy/silver)",2015,"6-25",11
-"131","Cwm Mynach",5630,"Wales","John Phillips",382.43,3,"a",6.38,"Wood establishment","Oak (sessile)","Oak (sessile)",2013,"6-25",13
-"132","Cwm Mynach",5630,"Wales","John Phillips",382.43,4,"a",5.22,"Wood establishment","Mixed broadleaves","Mixed broadleaves",2002,"6-25",24
-"133","Cwm Mynach",5630,"Wales","John Phillips",382.43,18,"a",9.24,"Wood establishment","Mixed native broadleaves","Mixed native broadleaves",2013,"6-25",13
-"134","Glen Sherup",5507,"Scotland","Izzy Filor",603.51,1,"a",344.93,"Wood establishment","Mixed native broadleaves","NULL",2003,"50+",23
-"135","Glen Sherup",5507,"Scotland","Izzy Filor",603.51,1,"b",257.43,"Wood establishment","Mixed native broadleaves","NULL",2004,"50+",22
-"136","Formonthills",4850,"Scotland","Jill Aitken",86.69,8,"e",1.08,"Wood establishment","Mixed broadleaves","NULL",2019,"0-5",7
-"137","Formonthills",4850,"Scotland","Jill Aitken",86.69,8,"g",0.33,"Wood establishment","Mixed native broadleaves","NULL",2019,"0-5",7
-"138","Formonthills",4850,"Scotland","Jill Aitken",86.69,8,"h",0.2,"Wood establishment","Mixed native broadleaves","NULL",2018,"0-5",8
-"139","Formonthills",4850,"Scotland","Jill Aitken",86.69,8,"i",0.99,"Wood establishment","Mixed native broadleaves","NULL",2018,"0-5",8
-"140","Glen Finglas",4878,"Scotland","Hamish Thomson",4051.81,11,"a",1286.84,"Wood establishment","Mixed native broadleaves","NULL",2000,"50+",26
-"141","Glen Finglas",4878,"Scotland","Hamish Thomson",4051.81,8,"a",625.09,"Wood establishment","Mixed native broadleaves","NULL",2006,"50+",20
-"142","Glen Finglas",4878,"Scotland","Hamish Thomson",4051.81,14,"a",555.31,"Wood establishment","Mixed native broadleaves","NULL",2008,"50+",18
-"143","Glen Finglas",4878,"Scotland","Hamish Thomson",4051.81,13,"b",150.63,"Wood establishment","Mixed native broadleaves","NULL",2017,"50+",9
-"144","Glen Finglas",4878,"Scotland","Hamish Thomson",4051.81,15,"a",23.26,"Wood establishment","Mixed native broadleaves","NULL",2010,"6-25",16
-"145","Lang Craigs",5632,"Scotland","Izzy Filor",239.31,1,"a",4.16,"Wood establishment","Mixed native broadleaves","NULL",2012,"0-5",14
-"146","Lang Craigs",5632,"Scotland","Izzy Filor",239.31,1,"b",2.39,"Wood establishment","Mixed native broadleaves","NULL",2012,"0-5",14
-"147","Lang Craigs",5632,"Scotland","Izzy Filor",239.31,1,"c",2.22,"Wood establishment","Mixed native broadleaves","NULL",2012,"0-5",14
-"148","Lang Craigs",5632,"Scotland","Izzy Filor",239.31,1,"d",4.11,"Wood establishment","Mixed native broadleaves","NULL",2012,"0-5",14
-"149","Lang Craigs",5632,"Scotland","Izzy Filor",239.31,1,"e",4.32,"Wood establishment","Mixed native broadleaves","NULL",2013,"0-5",13
-"150","Lang Craigs",5632,"Scotland","Izzy Filor",239.31,1,"f",1.45,"Wood establishment","Mixed native broadleaves","NULL",2014,"0-5",12
-"151","Lang Craigs",5632,"Scotland","Izzy Filor",239.31,1,"g",2.08,"Wood establishment","Mixed native broadleaves","NULL",2014,"0-5",12
-"152","Lang Craigs",5632,"Scotland","Izzy Filor",239.31,3,"a",2.68,"Wood establishment","Mixed native broadleaves","NULL",2012,"0-5",14
-"153","Lang Craigs",5632,"Scotland","Izzy Filor",239.31,3,"b",2.97,"Wood establishment","Mixed native broadleaves","NULL",2012,"0-5",14
-"154","Lang Craigs",5632,"Scotland","Izzy Filor",239.31,3,"c",10.56,"Wood establishment","Mixed native broadleaves","NULL",2012,"6-25",14
-"155","Lang Craigs",5632,"Scotland","Izzy Filor",239.31,5,"a",29.15,"Wood establishment","Mixed native broadleaves","NULL",2013,"26-50",13
-"156","Lang Craigs",5632,"Scotland","Izzy Filor",239.31,7,"a",34.88,"Wood establishment","Mixed native broadleaves","Open ground",2013,"26-50",13
-"157","Lang Craigs",5632,"Scotland","Izzy Filor",239.31,9,"b",5.43,"Wood establishment","Mixed native broadleaves","NULL",2013,"6-25",13
-"158","Lang Craigs",5632,"Scotland","Izzy Filor",239.31,10,"a",5.8,"Wood establishment","Mixed native broadleaves","NULL",2012,"6-25",14
-"159","Lang Craigs",5632,"Scotland","Izzy Filor",239.31,10,"b",5.18,"Wood establishment","Mixed native broadleaves","NULL",2013,"6-25",13
-"160","Lang Craigs",5632,"Scotland","Izzy Filor",239.31,11,"a",3.38,"Wood establishment","Mixed native broadleaves","NULL",2013,"0-5",13
-"161","Lang Craigs",5632,"Scotland","Izzy Filor",239.31,9,"a",38.67,"Wood establishment","Mixed native broadleaves","NULL",2013,"26-50",13
-"162","Lang Craigs",5632,"Scotland","Izzy Filor",239.31,11,"b",9.75,"Wood establishment","Mixed native broadleaves","NULL",2014,"6-25",12
-"163","Lang Craigs",5632,"Scotland","Izzy Filor",239.31,11,"c",1.88,"Wood establishment","Mixed native broadleaves","NULL",2014,"0-5",12
-"164","Lang Craigs",5632,"Scotland","Izzy Filor",239.31,11,"d",1.89,"Wood establishment","Mixed native broadleaves","NULL",2014,"0-5",12
-"165","Coed y Cadno",5438,"Wales","Third Party Manager",3.09,1,"b",2.78,"Wood establishment","Oak (sessile)","NULL",2000,"0-5",26
-"166","Queen Elizabeth Diamond Jubilee Wood",5658,"Central","David Logan",50.52,1,"a",28.29,"Wood establishment","Mixed native broadleaves","NULL",2012,"26-50",14
-"167","Queen Elizabeth Diamond Jubilee Wood",5658,"Central","David Logan",50.52,1,"c",27.14,"Wood establishment","Mixed native broadleaves","NULL",2013,"26-50",13
-"168","Queen Elizabeth Diamond Jubilee Wood",5658,"Central","David Logan",50.52,2,"a",5.78,"Wood establishment","Mixed native broadleaves","NULL",2013,"6-25",13
-"169","Queen Elizabeth Diamond Jubilee Wood",5658,"Central","David Logan",50.52,2,"b",7.19,"Wood establishment","Mixed native broadleaves","NULL",2013,"6-25",13
-"170","Queen Elizabeth Diamond Jubilee Wood",5658,"Central","David Logan",50.52,1,"b",16.34,"Wood establishment","Mixed native broadleaves","NULL",2012,"6-25",14
-"171","Queen Elizabeth Diamond Jubilee Wood",5658,"Central","David Logan",50.52,1,"e",7.13,"Wood establishment","Mixed native broadleaves","NULL",2013,"6-25",13
-"172","Queen Elizabeth Diamond Jubilee Wood",5658,"Central","David Logan",50.52,3,"a",14.07,"Wood establishment","Mixed native broadleaves","NULL",2013,"6-25",13
-"173","Queen Elizabeth Diamond Jubilee Wood",5658,"Central","David Logan",50.52,1,"f",5.45,"Wood establishment","Mixed native broadleaves","NULL",2012,"6-25",14
-"174","Queen Elizabeth Diamond Jubilee Wood",5658,"Central","David Logan",50.52,1,"d",14.48,"Wood establishment","Mixed native broadleaves","NULL",2012,"6-25",14
-"175","Queen Elizabeth Diamond Jubilee Wood",5658,"Central","David Logan",50.52,3,"b",9.89,"Wood establishment","Mixed native broadleaves","NULL",2013,"6-25",13
-"176","Ledmore & Migdale",4862,"Scotland","Ross Watson",690.98,1,"b",3.09,"Wood establishment","Mixed native broadleaves","NULL",2013,"0-5",13
-"177","Haddon Wood",5659,"South West","Emily Bennett",5.55,1,"a",4.55,"Wood establishment","Mixed native broadleaves","NULL",2013,"0-5",13
-"178","Haddon Wood",5659,"South West","Emily Bennett",5.55,2,"a",5.83,"Wood establishment","Mixed native broadleaves","NULL",2014,"6-25",12
-"179","Dutton Park",5578,"North","Neil Oxley",64.05,2,"a",5.79,"Wood establishment","Oak (pedunculate)","Ash",2007,"6-25",19
-"180","Dutton Park",5578,"North","Neil Oxley",64.05,7,"a",6.96,"Wood establishment","other oak spp","Ash",2001,"6-25",25
-"181","Dutton Park",5578,"North","Neil Oxley",64.05,2,"b",2.98,"Wood establishment","Birch (downy/silver)","Oak (pedunculate)",2007,"0-5",19
-"182","Dutton Park",5578,"North","Neil Oxley",64.05,3,"a",4.38,"Wood establishment","Oak (pedunculate)","Ash",2006,"0-5",20
-"183","Dutton Park",5578,"North","Neil Oxley",64.05,1,"a",16.02,"Wood establishment","Oak (pedunculate)","Ash",2006,"6-25",20
-"184","Langley Vale Wood",5668,"South East","Jenny Price",259.69,1,"d",4.63,"Wood establishment","Oak (pedunculate)","Beech",2017,"0-5",9
-"185","Langley Vale Wood",5668,"South East","Jenny Price",259.69,1,"b",36.73,"Wood establishment","Oak (pedunculate)","Beech",2017,"26-50",9
-"186","Langley Vale Wood",5668,"South East","Jenny Price",259.69,2,"a",0.87,"Wood establishment","Oak (pedunculate)","Beech",2019,"0-5",7
-"187","Langley Vale Wood",5668,"South East","Jenny Price",259.69,2,"g",8.05,"Wood establishment","Hazel","Oak (pedunculate)",2017,"6-25",9
-"188","Langley Vale Wood",5668,"South East","Jenny Price",259.69,2,"e",9.12,"Wood establishment","Oak (pedunculate)","Beech",2014,"6-25",12
-"189","Langley Vale Wood",5668,"South East","Jenny Price",259.69,2,"o",3.8,"Wood establishment","Hazel","Oak (pedunculate)",2017,"0-5",9
-"190","Langley Vale Wood",5668,"South East","Jenny Price",259.69,2,"u",0.69,"Wood establishment","Hazel","Hawthorn species",2017,"0-5",9
-"191","Langley Vale Wood",5668,"South East","Jenny Price",259.69,2,"q",0.87,"Wood establishment","Hawthorn species","Field maple",2018,"0-5",8
-"192","Langley Vale Wood",5668,"South East","Jenny Price",259.69,2,"s",1.91,"Wood establishment","Oak (pedunculate)","Beech",2018,"0-5",8
-"193","Langley Vale Wood",5668,"South East","Jenny Price",259.69,2,"i",2.57,"Wood establishment","Oak (pedunculate)","Beech",2017,"0-5",9
-"194","Langley Vale Wood",5668,"South East","Jenny Price",259.69,2,"j",8.46,"Wood establishment","Oak (pedunculate)","Beech",2018,"6-25",8
-"195","Langley Vale Wood",5668,"South East","Jenny Price",259.69,2,"l",4.47,"Wood establishment","Mixed native broadleaves","NULL",2018,"0-5",8
-"196","Langley Vale Wood",5668,"South East","Jenny Price",259.69,3,"a",13.04,"Wood establishment","Oak (pedunculate)","Beech",2019,"6-25",7
-"197","Langley Vale Wood",5668,"South East","Jenny Price",259.69,4,"a",6.85,"Wood establishment","Mixed native broadleaves","NULL",2015,"6-25",11
-"198","Langley Vale Wood",5668,"South East","Jenny Price",259.69,1,"k",3.24,"Wood establishment","Mixed native broadleaves","Sycamore",2018,"0-5",8
-"199","Coed Ffos Las",5670,"Wales","Chris Matts",49.93,1,"b",6.02,"Wood establishment","Oak (sessile)","Alder species",2016,"6-25",10
-"200","Coed Ffos Las",5670,"Wales","Chris Matts",49.93,3,"c",0.78,"Wood establishment","Sessile oak","Birch (downy/silver)",2017,"0-5",9
-"201","Falkender Wood",5672,"North","Heather Swift",1.43,1,"a",1.43,"Wood establishment","Oak (pedunculate)","Mixed native broadleaves",2018,"0-5",8
-"202","Comfort's Wood",4433,"South East","Sam Pettman",11.19,4,"c",1.1,"Wood establishment","Oak (pedunculate)","Ash",2017,"0-5",9
-"203","Comfort's Wood",4433,"South East","Sam Pettman",11.19,4,"b",0.97,"Wood establishment","Oak (pedunculate)","Ash",2017,"0-5",9
-"204","Dransfield Wood",5675,"North","Tilhill Forestry",1.62,1,"b",0.06,"Wood establishment","Hazel","Hawthorn species",2020,"0-5",6
-"205","Dransfield Wood",5675,"North","Tilhill Forestry",1.62,1,"c",0.19,"Wood establishment","Wild cherry/gean","Hazel",2020,"0-5",6
-"206","Dransfield Wood",5675,"North","Tilhill Forestry",1.62,1,"a",1.37,"Wood establishment","Wild cherry/gean","Hazel",2020,"0-5",6
-"207","Little Swine Carr Wood",5674,"North","Jess Darwin",3.3,1,"a",2.97,"Wood establishment","other oak spp","Ash",2000,"0-5",26
-"208","Goodhart's Wood",5696,"North","Jess Darwin",1.48,2,"a",0.17,"Wood establishment","Hazel","Silver birch",2018,"0-5",8
-"209","Sparkford Wood",5698,"South West","Tilhill Forestry",11.6,4,"a",2.01,"Wood establishment","Oak (pedunculate)","Hazel",2018,"0-5",8
-"210","Sparkford Wood",5698,"South West","Tilhill Forestry",11.6,3,"a",1.09,"Wood establishment","Oak (pedunculate)","Hazel",2018,"0-5",8
-"211","Kinclaven Bluebell Wood",5700,"Scotland","Jill Aitken",81.02,2,"a",3.05,"Wood establishment","Mixed native broadleaves","Scots pine",2018,"0-5",8
-"212","Kinclaven Bluebell Wood",5700,"Scotland","Jill Aitken",81.02,3,"a",4.56,"Wood establishment","Mixed native broadleaves","Scots pine",2019,"0-5",7
-"213","Kinclaven Bluebell Wood",5700,"Scotland","Jill Aitken",81.02,4,"a",21.33,"Wood establishment","Mixed native broadleaves","Scots pine",2020,"6-25",6
-"214","Kinclaven Bluebell Wood",5700,"Scotland","Jill Aitken",81.02,1,"c",1.42,"Wood establishment","Mixed native broadleaves","NULL",2022,"0-5",4
-"215","Heartwood Forest",5622,"Central","Luke Shenton",346.72,2,"e",20.14,"Wood establishment","Oak (sessile)","NULL",2012,"6-25",14
-"216","Heartwood Forest",5622,"Central","Luke Shenton",346.72,2,"a",17.82,"Wood establishment","Open ground","NULL",2009,"6-25",17
-"217","Heartwood Forest",5622,"Central","Luke Shenton",346.72,3,"b",3.17,"Wood establishment","Oak (sessile)","NULL",2010,"0-5",16
-"218","Heartwood Forest",5622,"Central","Luke Shenton",346.72,3,"c",5.2,"Wood establishment","Oak (sessile)","NULL",2011,"6-25",15
-"219","Heartwood Forest",5622,"Central","Luke Shenton",346.72,3,"e",4.95,"Wood establishment","Oak (sessile)","NULL",2012,"0-5",14
-"220","Heartwood Forest",5622,"Central","Luke Shenton",346.72,4,"a",17.8,"Wood establishment","Oak (sessile)","NULL",2010,"6-25",16
-"221","Heartwood Forest",5622,"Central","Luke Shenton",346.72,4,"b",8.25,"Wood establishment","Oak (sessile)","NULL",2011,"6-25",15
-"222","Heartwood Forest",5622,"Central","Luke Shenton",346.72,3,"d",17.89,"Wood establishment","Oak (sessile)","NULL",2011,"6-25",15
-"223","Heartwood Forest",5622,"Central","Luke Shenton",346.72,4,"c",15.75,"Wood establishment","Oak (sessile)","NULL",2011,"6-25",15
-"224","Heartwood Forest",5622,"Central","Luke Shenton",346.72,4,"d",5,"Wood establishment","Oak (sessile)","NULL",2010,"0-5",16
-"225","Heartwood Forest",5622,"Central","Luke Shenton",346.72,4,"e",7.93,"Wood establishment","Oak (sessile)","NULL",2013,"6-25",13
-"226","Heartwood Forest",5622,"Central","Luke Shenton",346.72,4,"f",18.76,"Wood establishment","Oak (sessile)","NULL",2013,"6-25",13
-"227","Heartwood Forest",5622,"Central","Luke Shenton",346.72,6,"a",34.74,"Wood establishment","Oak (sessile)","NULL",2015,"26-50",11
-"228","Heartwood Forest",5622,"Central","Luke Shenton",346.72,5,"c",28.37,"Wood establishment","Oak (sessile)","NULL",2012,"26-50",14
-"229","Heartwood Forest",5622,"Central","Luke Shenton",346.72,5,"b",4.64,"Wood establishment","Oak (sessile)","NULL",2011,"0-5",15
-"230","Heartwood Forest",5622,"Central","Luke Shenton",346.72,7,"c",6.43,"Wood establishment","Open ground","NULL",2017,"6-25",9
-"231","Heartwood Forest",5622,"Central","Luke Shenton",346.72,7,"a",6.02,"Wood establishment","Open ground","NULL",2017,"6-25",9
-"232","Heartwood Forest",5622,"Central","Luke Shenton",346.72,7,"b",32.98,"Wood establishment","Open ground","NULL",2017,"26-50",9
-"233","Heartwood Forest",5622,"Central","Luke Shenton",346.72,2,"b",8.21,"Wood establishment","Oak (sessile)","NULL",2010,"6-25",16
-"234","Heartwood Forest",5622,"Central","Luke Shenton",346.72,3,"a",4.4,"Wood establishment","Ash","NULL",2008,"0-5",18
-"235","Heartwood Forest",5622,"Central","Luke Shenton",346.72,5,"a",13.64,"Wood establishment","Oak (sessile)","NULL",2010,"6-25",16
-"236","Heartwood Forest",5622,"Central","Luke Shenton",346.72,1,"b",46.37,"Wood establishment","Oak (sessile)","NULL",2009,"26-50",17
-"237","Smithills Estate",5669,"North","Oliver Stainthorpe",682.27,1,"b",2.31,"Wood establishment","Mixed native broadleaves","Oak (pedunculate)",2020,"0-5",6
-"238","Smithills Estate",5669,"North","Oliver Stainthorpe",682.27,1,"c",2.07,"Wood establishment","Mixed native broadleaves","Juniper",2017,"0-5",9
-"239","Smithills Estate",5669,"North","Oliver Stainthorpe",682.27,2,"b",10.41,"Wood establishment","Mixed broadleaves","NULL",2020,"6-25",6
-"240","Smithills Estate",5669,"North","Oliver Stainthorpe",682.27,4,"b",1.64,"Wood establishment","Mixed broadleaves","NULL",2018,"0-5",8
-"241","Smithills Estate",5669,"North","Oliver Stainthorpe",682.27,4,"c",3.07,"Wood establishment","Mixed broadleaves","NULL",2019,"0-5",7
-"242","Smithills Estate",5669,"North","Oliver Stainthorpe",682.27,4,"d",2.33,"Wood establishment","Mixed native broadleaves","NULL",2019,"0-5",7
-"243","Smithills Estate",5669,"North","Oliver Stainthorpe",682.27,5,"b",6.05,"Wood establishment","Mixed broadleaves","NULL",2019,"6-25",7
-"244","Smithills Estate",5669,"North","Oliver Stainthorpe",682.27,8,"b",2.45,"Wood establishment","Mixed native broadleaves","NULL",2021,"0-5",5
-"245","Smithills Estate",5669,"North","Oliver Stainthorpe",682.27,11,"b",0.53,"Wood establishment","Mixed native broadleaves","NULL",2018,"0-5",8
-"246","Smithills Estate",5669,"North","Oliver Stainthorpe",682.27,12,"b",3.13,"Wood establishment","Mixed broadleaves","NULL",2018,"0-5",8
-"247","Smithills Estate",5669,"North","Oliver Stainthorpe",682.27,12,"c",3.78,"Wood establishment","Mixed native broadleaves","NULL",2018,"0-5",8
-"248","Smithills Estate",5669,"North","Oliver Stainthorpe",682.27,17,"b",1.85,"Wood establishment","Mixed broadleaves","NULL",2020,"0-5",6
-"249","Smithills Estate",5669,"North","Oliver Stainthorpe",682.27,17,"c",1.17,"Wood establishment","NULL","NULL",2020,"0-5",6
-"250","Smithills Estate",5669,"North","Oliver Stainthorpe",682.27,22,"b",1.1,"Wood establishment","Mixed native broadleaves","NULL",2020,"0-5",6
-"251","Smithills Estate",5669,"North","Oliver Stainthorpe",682.27,26,"b",1.47,"Wood establishment","Mixed native broadleaves","Oak (pedunculate)",2020,"0-5",6
-"252","Smithills Estate",5669,"North","Oliver Stainthorpe",682.27,12,"d",1.23,"Wood establishment","Mixed native broadleaves","NULL",2021,"0-5",5
-"253","Rivermead",5808,"South West","David Rickwood",7.97,16,"g",7.53,"Wood establishment","Common alder","Silver birch",2003,"6-25",23
-"254","Avoncliff Wood",5699,"South West","Emily Bennett",30.13,2,"a",11.79,"Wood establishment","Mixed native broadleaves","Open ground",2019,"6-25",7
-"255","Brynau Farm",5810,"Wales","Chris Matts",72.03,2,"a",7.55,"Wood establishment","Sessile oak","Downy birch",2021,"6-25",5
-"256","Brynau Farm",5810,"Wales","Chris Matts",72.03,2,"b",6.35,"Wood establishment","Downy birch","Alder species",2021,"6-25",5
-"257","Brynau Farm",5810,"Wales","Chris Matts",72.03,2,"c",1.42,"Wood establishment","Hawthorn species","Alder species",2021,"0-5",5
-"258","Brynau Farm",5810,"Wales","Chris Matts",72.03,4,"a",17.4,"Wood establishment","Oak (sessile)","Mixed native broadleaves",2020,"6-25",6
-"259","Brynau Farm",5810,"Wales","Chris Matts",72.03,3,"c",5.53,"Wood establishment","Oak (sessile)","Open ground",2020,"6-25",6
-"260","Brynau Farm",5810,"Wales","Chris Matts",72.03,7,"a",11.65,"Wood establishment","Oak (sessile)","Mixed native broadleaves",2022,"6-25",4
-"261","Brynau Farm",5810,"Wales","Chris Matts",72.03,7,"b",7.35,"Wood establishment","Black poplar","Lime species",2022,"6-25",4
-"262","Beaulieu Wood",5477,"Wales","Rob Davies",16.65,2,"d",6.17,"Wood establishment","NULL","NULL",2024,"6-25",2
-"263","Beaulieu Wood",5477,"Wales","Rob Davies",16.65,2,"c",1.54,"Wood establishment","NULL","NULL",2024,"0-5",2
-"264","Young People's Forest at Mead",5707,"North","Chris Williams",161.29,16,"a",3.08,"Wood establishment","Oak (sessile)","Birch (downy/silver)",2022,"0-5",4
-"265","Young People's Forest at Mead",5707,"North","Chris Williams",161.29,20,"a",5.08,"Wood establishment","Oak (sessile)","Birch (downy/silver)",2020,"6-25",6
-"266","Young People's Forest at Mead",5707,"North","Chris Williams",161.29,11,"a",1.84,"Wood establishment","Oak (sessile)","Birch (downy/silver)",2020,"0-5",6
-"267","Young People's Forest at Mead",5707,"North","Chris Williams",161.29,2,"a",10.86,"Wood establishment","Sessile oak","Birch (downy/silver)",2019,"6-25",7
-"268","Young People's Forest at Mead",5707,"North","Chris Williams",161.29,1,"a",19.34,"Wood establishment","Sessile oak","Birch (downy/silver)",2019,"6-25",7
-"269","Young People's Forest at Mead",5707,"North","Chris Williams",161.29,5,"a",1.13,"Wood establishment","Sessile oak","Birch (downy/silver)",2020,"0-5",6
-"270","Young People's Forest at Mead",5707,"North","Chris Williams",161.29,4,"a",1.78,"Wood establishment","Sessile oak","Other",2020,"0-5",6
-"271","Young People's Forest at Mead",5707,"North","Chris Williams",161.29,6,"a",0.76,"Wood establishment","Sessile oak","Birch (downy/silver)",2020,"0-5",6
-"272","Young People's Forest at Mead",5707,"North","Chris Williams",161.29,7,"a",1.61,"Wood establishment","Sessile oak","Birch (downy/silver)",2021,"0-5",5
-"273","Young People's Forest at Mead",5707,"North","Chris Williams",161.29,15,"a",1.76,"Wood establishment","Oak (sessile)","Birch (downy/silver)",2021,"0-5",5
-"274","Young People's Forest at Mead",5707,"North","Chris Williams",161.29,18,"a",1.81,"Wood establishment","Sessile oak","Birch (downy/silver)",2021,"0-5",5
-"275","Young People's Forest at Mead",5707,"North","Chris Williams",161.29,21,"a",1.43,"Wood establishment","Oak (sessile)","Birch (downy/silver)",2021,"0-5",5
-"276","Young People's Forest at Mead",5707,"North","Chris Williams",161.29,23,"a",1.29,"Wood establishment","Sessile oak","Birch (downy/silver)",2021,"0-5",5
-"277","Young People's Forest at Mead",5707,"North","Chris Williams",161.29,10,"a",1.45,"Wood establishment","Sessile oak","Birch (downy/silver)",2020,"0-5",6
-"278","Young People's Forest at Mead",5707,"North","Chris Williams",161.29,14,"a",11.95,"Wood establishment","Sessile oak","Birch (downy/silver)",2022,"6-25",4
-"279","Young People's Forest at Mead",5707,"North","Chris Williams",161.29,12,"a",8.65,"Wood establishment","Sessile oak","Birch (downy/silver)",2020,"6-25",6
-"280","Young People's Forest at Mead",5707,"North","Chris Williams",161.29,17,"a",5.35,"Wood establishment","Sessile oak","Birch (downy/silver)",2021,"6-25",5
-"281","Young People's Forest at Mead",5707,"North","Chris Williams",161.29,19,"a",2.92,"Wood establishment","Oak (sessile)","Birch (downy/silver)",2020,"0-5",6
-"282","Young People's Forest at Mead",5707,"North","Chris Williams",161.29,9,"a",21.58,"Wood establishment","Sessile oak","Birch (downy/silver)",2020,"6-25",6
-"283","Young People's Forest at Mead",5707,"North","Chris Williams",161.29,8,"a",1.88,"Wood establishment","Sessile oak","Birch (downy/silver)",2021,"0-5",5
-"284","Young People's Forest at Mead",5707,"North","Chris Williams",161.29,26,"a",2.93,"Wood establishment","Oak (sessile)","Birch (downy/silver)",2016,"0-5",10
-"285","Swindells' Wood",5717,"North","Colin Riley",13.29,1,"e",2.8,"Wood establishment","Oak (sessile)","Silver birch",2020,"0-5",6
-"286","Swindells' Wood",5717,"North","Colin Riley",13.29,1,"d",2.42,"Wood establishment","Oak (sessile)","Silver birch",2020,"0-5",6
-"287","Swindells' Wood",5717,"North","Colin Riley",13.29,2,"c",4.07,"Wood establishment","Silver birch","Aspen",2020,"0-5",6
-"288","Murieston Woods",4892,"Scotland","Hannah Patterson",3.4,43,"b",0.59,"Wood establishment","Mixed broadleaves","Grey willow",2005,"0-5",21
-"289","Snaizeholme",5822,"North","Alec Pue",224.25,1,"a",32.11,"Wood establishment","Common alder","Aspen",2023,"26-50",3
-"290","Yonder Oak Wood",5240,"South West","Sam Hamer",17.44,1,"a",14.17,"Wood establishment","Oak (pedunculate)","Field maple",2023,"6-25",3
-"291","Thompson Wood",5720,"Central","Tom Bolderstone",112.55,1,"a",7.07,"Wood establishment","NULL","NULL",2024,"6-25",2
-"292","Thompson Wood",5720,"Central","Tom Bolderstone",112.55,1,"a",2.81,"Wood establishment","NULL","NULL",2024,"0-5",2
-"293","Thompson Wood",5720,"Central","Tom Bolderstone",112.55,1,"b",4.6,"Wood establishment","NULL","NULL",2024,"0-5",2
-"294","Thompson Wood",5720,"Central","Tom Bolderstone",112.55,1,"c",3.34,"Wood establishment","NULL","NULL",2024,"0-5",2
-"295","Thompson Wood",5720,"Central","Tom Bolderstone",112.55,1,"a",0.74,"Wood establishment","NULL","NULL",2024,"0-5",2
-"296","Gillian's Wood",5835,"South West","Richard Brown",56.53,4,"a",1.01,"Wood establishment","Oak (pedunculate)","Sweet chestnut",2020,"0-5",6
-"297","Gillian's Wood",5835,"South West","Richard Brown",56.53,4,"b",0.88,"Wood establishment","Oak (pedunculate)","Sweet chestnut",2020,"0-5",6
-"298","Gillian's Wood",5835,"South West","Richard Brown",56.53,4,"c",0.7,"Wood establishment","Oak (pedunculate)","Sweet chestnut",2020,"0-5",6
-"299","Gillian's Wood",5835,"South West","Richard Brown",56.53,4,"d",0.92,"Wood establishment","Oak (pedunculate)","Sweet chestnut",2020,"0-5",6
-"300","Frodsham Woods",3242,"North","Neil Oxley",38.18,1,"a",32.7,"Wood establishment","Oak (sessile)","Birch (downy/silver)",2023,"26-50",3
-"301","New Copse",5831,"South East","James Stevenson",61.4,2,"g",1.1,"Wood establishment","Birch (downy/silver)","Pedunculate/common oak",2008,"0-5",18
+"1","Aldouran Glen",4869,"Scotland","Daniel Aiken",13.11,2,"b",3.8,"Wood establishment","Birch (downy/silver)","Mixed native broadleaves",2002,"0-5ha",24
+"2","Aldouran Glen",4869,"Scotland","Daniel Aiken",13.11,1,"c",0.11,"Wood establishment","Oak (sessile)","Mixed broadleaves",2002,"0-5ha",24
+"3","Kilmagad Wood",5123,"Scotland","Izzy Filor",26.84,4,"f",2.61,"Wood establishment","Mixed native broadleaves","NULL",2010,"0-5ha",16
+"4","Kilmagad Wood",5123,"Scotland","Izzy Filor",26.84,1,"c",0.81,"Wood establishment","Oak (sessile)","Mixed native broadleaves",2016,"0-5ha",10
+"5","Kilmagad Wood",5123,"Scotland","Izzy Filor",26.84,3,"c",4.11,"Wood establishment","Mixed native broadleaves","Mixed broadleaves",2010,"0-5ha",16
+"6","Kilmagad Wood",5123,"Scotland","Izzy Filor",26.84,4,"a",0.5,"Wood establishment","Mixed native broadleaves","Mixed broadleaves",2003,"0-5ha",23
+"7","Kilmagad Wood",5123,"Scotland","Izzy Filor",26.84,5,"a",1.44,"Wood establishment","Mixed native broadleaves","NULL",2009,"0-5ha",17
+"8","Kilmagad Wood",5123,"Scotland","Izzy Filor",26.84,5,"c",2.68,"Wood establishment","Mixed native broadleaves","NULL",2010,"0-5ha",16
+"9","Butterdean Wood",4907,"Scotland","Daniel Aiken",42.15,1,"c",5.51,"Wood establishment","NULL","NULL",2020,"6-25ha",6
+"10","Butterdean Wood",4907,"Scotland","Daniel Aiken",42.15,2,"b",3.13,"Wood establishment","NULL","NULL",2020,"0-5ha",6
+"11","Thwaitestones",4278,"North","Jess Darwin",14.92,2,"b",2.42,"Wood establishment","Mixed native broadleaves","Mixed native broadleaves",2002,"0-5ha",24
+"12","Hedley Hall",4459,"North","Sam Jama",43.3,4,"c",13.48,"Wood establishment","Oak (pedunculate)","Hazel",2019,"6-25ha",7
+"13","Hedley Hall",4459,"North","Sam Jama",43.3,4,"a",13.65,"Wood establishment","Aspen","Scots pine",2018,"6-25ha",8
+"14","Scaleber Wood",5254,"North","Jess Darwin",1.03,2,"a",2.62,"Wood establishment","Ash","Mixed native broadleaves",2000,"0-5ha",26
+"15","Eliburn Woods",4885,"Scotland","Hannah Patterson",7.81,17,"b",0.39,"Wood establishment","Mixed native broadleaves","Hawthorn species",2012,"0-5ha",14
+"16","Wilderness",4890,"Scotland","Hannah Patterson",18.58,40,"d",1.39,"Wood establishment","Mixed native broadleaves","NULL",2012,"0-5ha",14
+"17","Wilderness",4890,"Scotland","Hannah Patterson",18.58,40,"b",0.54,"Wood establishment","Mixed native broadleaves","NULL",2012,"0-5ha",14
+"18","Longacre Wood",5545,"North","Neil Oxley",2.3,1,"a",2.3,"Wood establishment","Oak (pedunculate)","Ash",2004,"0-5ha",22
+"19","Longacre Wood",5545,"North","Neil Oxley",2.3,2,"a",3.19,"Wood establishment","Oak (pedunculate)","Ash",2005,"0-5ha",21
+"20","North Wood",4881,"Scotland","Hannah Patterson",35.23,1,"b",1.62,"Wood establishment","Mixed native broadleaves","Sycamore",2016,"0-5ha",10
+"21","North Wood",4881,"Scotland","Hannah Patterson",35.23,1,"j",2.16,"Wood establishment","Mixed conifers","Mixed broadleaves",2016,"0-5ha",10
+"22","Nut Wood",4067,"Central","Luke Shenton",5.1,2,"b",17.06,"Wood establishment","Alder species","NULL",2001,"6-25ha",25
+"23","Coed Dolifor",4085,"Wales","Rob Davies",11.54,2,"f",0.05,"Wood establishment","Birch (downy/silver)","NULL",2013,"0-5ha",13
+"24","King's Cliffe Millennium Wood",5291,"Central","Matt George",4.51,1,"a",4.51,"Wood establishment","Alder species","NULL",2000,"0-5ha",26
+"25","Coed Cwr y Pwll",5248,"Wales","John Phillips",6.62,1,"a",3.55,"Wood establishment","Oak (sessile)","Ash",2000,"0-5ha",26
+"26","Coed Cwr y Pwll",5248,"Wales","John Phillips",6.62,1,"b",0.54,"Wood establishment","Hazel","Hawthorn species",2000,"0-5ha",26
+"27","Gibbet Hill Wood",5144,"Central","Matt George",10.36,2,"a",0.5,"Wood establishment","Ash","NULL",2000,"0-5ha",26
+"28","Gibbet Hill Wood",5144,"Central","Matt George",10.36,1,"a",9.87,"Wood establishment","Ash","NULL",2000,"6-25ha",26
+"29","Coed Geufron",5299,"Wales","Rebecca Good",9.79,2,"b",2.71,"Wood establishment","Oak (sessile)","Birch (downy/silver)",2000,"0-5ha",26
+"30","Coed Geufron",5299,"Wales","Rebecca Good",9.79,1,"a",2.08,"Wood establishment","Oak (sessile)","Birch (downy/silver)",2000,"0-5ha",26
+"31","Lanteague Wood",5405,"Wales","Chris Matts",7.94,1,"a",8.05,"Wood establishment","Ash","Oak (sessile)",2001,"6-25ha",25
+"32","Coed Aberneint",5435,"Wales","John Phillips",2.83,1,"c",1.29,"Wood establishment","Ash","Hazel",2000,"0-5ha",26
+"33","Coed y Bobl",5445,"Wales","Rebecca Good",6.84,1,"a",3.38,"Wood establishment","Birch (downy/silver)","Rowan",2000,"0-5ha",26
+"34","Coed y Bobl",5445,"Wales","Rebecca Good",6.84,1,"b",2.6,"Wood establishment","Birch (downy/silver)","Rowan",2000,"0-5ha",26
+"35","Mill Field Wood",5210,"Central","David Logan",7.76,1,"a",3.46,"Wood establishment","Mixed broadleaves","NULL",2000,"0-5ha",26
+"36","Mill Field Wood",5210,"Central","David Logan",7.76,2,"a",3.02,"Wood establishment","Mixed broadleaves","NULL",2000,"0-5ha",26
+"37","Haroldswood",5439,"Wales","Rebecca Good",0.61,1,"a",0.61,"Wood establishment","Hazel","Hazel",2000,"0-5ha",26
+"38","Highbury Fields",5406,"South West","Richard Brown",21.89,1,"a",1.66,"Wood establishment","NULL","NULL",2023,"0-5ha",3
+"39","Highbury Fields",5406,"South West","Richard Brown",21.89,1,"b",1.34,"Wood establishment","NULL","NULL",2023,"0-5ha",3
+"40","Highbury Fields",5406,"South West","Richard Brown",21.89,1,"c",1.44,"Wood establishment","Goat willow","Hazel",2020,"0-5ha",6
+"41","Highbury Fields",5406,"South West","Richard Brown",21.89,1,"f",2.35,"Wood establishment","Silver birch","Mixed broadleaves",2023,"0-5ha",3
+"42","Highbury Fields",5406,"South West","Richard Brown",21.89,1,"e",0.46,"Wood establishment","Wild cherry/gean","Oak (pedunculate)",2004,"0-5ha",22
+"43","Highbury Fields",5406,"South West","Richard Brown",21.89,1,"d",0.99,"Wood establishment","Silver birch","Mixed broadleaves",2023,"0-5ha",3
+"44","Coed yr Hwrdd",5418,"Wales","Chris Matts",4.55,1,"a",4.55,"Wood establishment","Ash","Oak (sessile)",2000,"0-5ha",26
+"45","Coed Pibwr",5428,"Wales","Chris Matts",5.02,1,"a",5.02,"Wood establishment","Oak (sessile)","Ash",2001,"6-25ha",25
+"46","Coed Pencwm",5431,"Wales","Chris Matts",3.45,1,"a",2.84,"Wood establishment","Ash","Bird cherry",2001,"0-5ha",25
+"47","Banovallum Carr",5374,"North","James Jesson",4.38,1,"b",3.75,"Wood establishment","Common alder","NULL",2007,"0-5ha",19
+"48","St Martin's Wood",5223,"Wales","Chris Matts",6.71,1,"a",6.2,"Wood establishment","Ash","Mixed broadleaves",2000,"6-25ha",26
+"49","Coed Tregib",4101,"Wales","Chris Matts",27.8,2,"a",9.19,"Wood establishment","Ash","Alder species",2006,"6-25ha",20
+"50","Coed y Foel",4193,"Wales","Rebecca Good",14.19,8,"a",4.08,"Wood establishment","Mixed native broadleaves","Open ground",2015,"0-5ha",11
+"51","Coed y Foel",4193,"Wales","Rebecca Good",14.19,7,"a",4.63,"Wood establishment","Mixed native broadleaves","Open ground",2015,"0-5ha",11
+"52","Coed y Foel",4193,"Wales","Rebecca Good",14.19,5,"a",8.75,"Wood establishment","Mixed native broadleaves","NULL",2016,"6-25ha",10
+"53","Coed y Foel",4193,"Wales","Rebecca Good",14.19,6,"a",7.73,"Wood establishment","Mixed native broadleaves","NULL",2016,"6-25ha",10
+"54","Coed y Foel",4193,"Wales","Rebecca Good",14.19,9,"a",14.06,"Wood establishment","Open ground","Mixed broadleaves",2017,"6-25ha",9
+"55","Coed y Foel",4193,"Wales","Rebecca Good",5.28,8,"a",4.08,"Wood establishment","Mixed native broadleaves","Open ground",2015,"0-5ha",11
+"56","Coed y Foel",4193,"Wales","Rebecca Good",5.28,7,"a",4.63,"Wood establishment","Mixed native broadleaves","Open ground",2015,"0-5ha",11
+"57","Coed y Foel",4193,"Wales","Rebecca Good",5.28,5,"a",8.75,"Wood establishment","Mixed native broadleaves","NULL",2016,"6-25ha",10
+"58","Coed y Foel",4193,"Wales","Rebecca Good",5.28,6,"a",7.73,"Wood establishment","Mixed native broadleaves","NULL",2016,"6-25ha",10
+"59","Coed y Foel",4193,"Wales","Rebecca Good",5.28,9,"a",14.06,"Wood establishment","Open ground","Mixed broadleaves",2017,"6-25ha",9
+"60","Coed Allt Beili Coch",4313,"Wales","Rebecca Good",3.28,1,"a",1.5,"Wood establishment","Ash","other willows",2000,"0-5ha",26
+"61","Piddington Wood",4383,"South East","James Stevenson",9.76,3,"b",3.15,"Wood establishment","Mixed native broadleaves","Open ground",2003,"0-5ha",23
+"62","Granner Wood",4690,"Wales","Rob Davies",9.67,1,"d",1.4,"Wood establishment","Mixed native broadleaves","Douglas fir",2022,"0-5ha",4
+"63","Whitemill Common & Roughets Wood",4262,"Wales","Rob Davies",5.62,1,"b",0.8,"Wood establishment","Birch (downy/silver)","Rowan",2000,"0-5ha",26
+"64","Tring Park",4675,"Central","Luke Shenton",106.85,10,"a",17.87,"Wood establishment","Mixed native broadleaves","NULL",2018,"6-25ha",8
+"65","Penguin Wood at Botany Bay",5598,"Central","David Logan",38.81,1,"b",8.39,"Wood establishment","Mixed native broadleaves","NULL",2007,"6-25ha",19
+"66","Stratfield Brake",4481,"South East","James Stevenson",11.23,1,"c",2.91,"Wood establishment","Oak (pedunculate)","Field maple",2012,"0-5ha",14
+"67","Parc Mawr",4153,"Wales","John Phillips",33.94,3,"b",10.08,"Wood establishment","Oak (sessile)","Hazel",2000,"6-25ha",26
+"68","Worney Wood",5400,"Wales","Chris Matts",4.99,1,"a",4.99,"Wood establishment","Ash","Sessile oak",2000,"0-5ha",26
+"69","Trenant Wood",4500,"South West","Malcolm Allen",33.02,3,"a",17.05,"Wood establishment","Oak (sessile)","Birch (downy/silver)",2023,"6-25ha",3
+"70","Trenant Wood",4500,"South West","Malcolm Allen",33.02,5,"a",5.28,"Wood establishment","Oak (sessile)","Birch (downy/silver)",2006,"6-25ha",20
+"71","Trenant Wood",4500,"South West","Malcolm Allen",33.02,5,"d",5.15,"Wood establishment","Mixed native broadleaves","Mixed native broadleaves",2008,"6-25ha",18
+"72","Trenant Wood",4500,"South West","Malcolm Allen",33.02,5,"b",6.68,"Wood establishment","Oak (sessile)","Birch (downy/silver)",2007,"6-25ha",19
+"73","Trenant Wood",4500,"South West","Malcolm Allen",33.02,5,"c",7.93,"Wood establishment","Oak (sessile)","Birch (downy/silver)",2007,"6-25ha",19
+"74","Trenant Wood",4500,"South West","Malcolm Allen",33.02,5,"f",6.17,"Wood establishment","Mixed native broadleaves","Mixed native broadleaves",2008,"6-25ha",18
+"75","Trenant Wood",4500,"South West","Malcolm Allen",33.02,5,"e",7.2,"Wood establishment","Mixed native broadleaves","Mixed native broadleaves",2008,"6-25ha",18
+"76","Culvery Wood",4919,"South West","Emily Bennett",2.38,1,"c",0.39,"Wood establishment","Mixed native broadleaves","NULL",2016,"0-5ha",10
+"77","Pucketts Wood",4513,"South West","Sam Hamer",7.84,2,"a",1.91,"Wood establishment","Blackthorn","Hawthorn species",2018,"0-5ha",8
+"78","Granllyn Pool",5161,"Wales","Rebecca Good",2.06,3,"a",1.24,"Wood establishment","Oak (sessile)","Birch (downy/silver)",2005,"0-5ha",21
+"79","Cefn Ila",5611,"Wales","Rob Davies",28.77,2,"a",6.82,"Wood establishment","Mixed broadleaves","NULL",2007,"6-25ha",19
+"80","Cefn Ila",5611,"Wales","Rob Davies",28.77,4,"a",5.09,"Wood establishment","Mixed broadleaves","NULL",2008,"6-25ha",18
+"81","Cefn Ila",5611,"Wales","Rob Davies",28.77,1,"a",4.75,"Wood establishment","Mixed broadleaves","NULL",2009,"0-5ha",17
+"82","Cefn Ila",5611,"Wales","Rob Davies",28.77,5,"a",6,"Wood establishment","Mixed broadleaves","NULL",2007,"6-25ha",19
+"83","Cefn Ila",5611,"Wales","Rob Davies",28.77,3,"a",3.18,"Wood establishment","Mixed broadleaves","NULL",2007,"0-5ha",19
+"84","George Henry Wood",5603,"Central","David Logan",32.5,1,"a",22.52,"Wood establishment","Mixed native broadleaves","NULL",2008,"6-25ha",18
+"85","George Henry Wood",5603,"Central","David Logan",32.5,2,"a",4.89,"Wood establishment","Mixed native broadleaves","NULL",2009,"0-5ha",17
+"86","Duncliffe Wood",4136,"South West","Sam Hamer",87.43,8,"a",1.95,"Wood establishment","Mixed native broadleaves","NULL",2012,"0-5ha",14
+"87","Coed Ysgubor Wen",5612,"Wales","John Phillips",42.48,1,"a",3.17,"Wood establishment","Ash","Sessile oak",2010,"0-5ha",16
+"88","Coed Ysgubor Wen",5612,"Wales","John Phillips",42.48,2,"a",4.15,"Wood establishment","Oak (sessile)","Ash",2009,"0-5ha",17
+"89","Coed Ysgubor Wen",5612,"Wales","John Phillips",42.48,2,"b",2.28,"Wood establishment","Oak (sessile)","Ash",2009,"0-5ha",17
+"90","Coed Ysgubor Wen",5612,"Wales","John Phillips",42.48,3,"a",14.07,"Wood establishment","Oak (sessile)","Ash",2010,"6-25ha",16
+"91","Coed Ysgubor Wen",5612,"Wales","John Phillips",42.48,4,"a",7.03,"Wood establishment","Ash","Sessile oak",2010,"6-25ha",16
+"92","Victory Wood",5571,"South East","Andrew Goodwin",140.4,3,"c",2.42,"Wood establishment","Mixed native broadleaves","NULL",2014,"0-5ha",12
+"93","Victory Wood",5571,"South East","Andrew Goodwin",140.4,2,"b",13.41,"Wood establishment","Mixed native broadleaves","NULL",2013,"6-25ha",13
+"94","Victory Wood",5571,"South East","Andrew Goodwin",140.4,3,"b",0.13,"Wood establishment","Hawthorn species","NULL",2014,"0-5ha",12
+"95","Victory Wood",5571,"South East","Andrew Goodwin",140.4,3,"d",1.93,"Wood establishment","Mixed native broadleaves","NULL",2014,"0-5ha",12
+"96","Kentle Wood",5305,"Central","Matt George",11.9,2,"a",0.72,"Wood establishment","Oak (pedunculate)","NULL",2020,"0-5ha",6
+"97","Hucking Estate",4776,"South East","Sam Pettman",234.55,1,"d",3.5,"Wood establishment","Oak (pedunculate)","Field maple",2000,"0-5ha",26
+"98","Hucking Estate",4776,"South East","Sam Pettman",234.55,1,"e",2,"Wood establishment","Oak (pedunculate)","Small-leaved lime",2014,"0-5ha",12
+"99","Hucking Estate",4776,"South East","Sam Pettman",234.55,1,"f",4.64,"Wood establishment","Oak (pedunculate)","Hornbeam",2010,"0-5ha",16
+"100","Hucking Estate",4776,"South East","Sam Pettman",234.55,1,"g",0.57,"Wood establishment","Oak (pedunculate)","Field maple",2013,"0-5ha",13
+"101","Hucking Estate",4776,"South East","Sam Pettman",234.55,1,"a",22.85,"Wood establishment","Oak (pedunculate)","Hornbeam",2000,"6-25ha",26
+"102","Hucking Estate",4776,"South East","Sam Pettman",234.55,6,"a",9.09,"Wood establishment","Hawthorn species","Oak (pedunculate)",2018,"6-25ha",8
+"103","Hucking Estate",4776,"South East","Sam Pettman",234.55,6,"e",2.66,"Wood establishment","Hawthorn species","Oak (pedunculate)",2018,"0-5ha",8
+"104","Hucking Estate",4776,"South East","Sam Pettman",234.55,6,"c",5.88,"Wood establishment","Hawthorn species","Oak (pedunculate)",2018,"6-25ha",8
+"105","Hucking Estate",4776,"South East","Sam Pettman",234.55,6,"f",9.02,"Wood establishment","Hawthorn species","Oak (pedunculate)",2018,"6-25ha",8
+"106","Hucking Estate",4776,"South East","Sam Pettman",234.55,6,"h",1.63,"Wood establishment","Hawthorn species","Oak (pedunculate)",2018,"0-5ha",8
+"107","Hucking Estate",4776,"South East","Sam Pettman",234.55,6,"i",4.35,"Wood establishment","Hawthorn species","Oak (pedunculate)",2018,"0-5ha",8
+"108","Hucking Estate",4776,"South East","Sam Pettman",234.55,7,"c",12.6,"Wood establishment","Pedunculate/common oak","Hornbeam",2021,"6-25ha",5
+"109","Park Wood",4152,"Wales","Rob Davies",56.46,4,"b",1.49,"Wood establishment","Mixed native broadleaves","NULL",2022,"0-5ha",4
+"110","Knightsridge Woods",4884,"Scotland","Hannah Patterson",13.07,13,"b",0.95,"Wood establishment","Mixed broadleaves","Alder species",2000,"0-5ha",26
+"111","Pressmennan Wood",4908,"Scotland","Daniel Aiken",85.87,3,"b",2.44,"Wood establishment","Mixed native broadleaves","Mixed broadleaves",2003,"0-5ha",23
+"112","Pressmennan Wood",4908,"Scotland","Daniel Aiken",85.87,3,"g",2.27,"Wood establishment","Mixed native broadleaves","Other",2003,"0-5ha",23
+"113","Pressmennan Wood",4908,"Scotland","Daniel Aiken",85.87,4,"b",0.18,"Wood establishment","Downy birch","European larch",2008,"0-5ha",18
+"114","Moncreiffe Hill",4909,"Scotland","Jill Aitken",127.62,5,"a",4.41,"Wood establishment","Mixed native broadleaves","NULL",2011,"0-5ha",15
+"115","Low Burnhall",5621,"North","John Wilson",67.26,41,"b",2.4,"Wood establishment","Oak (sessile)","Ash",2012,"0-5ha",14
+"116","Low Burnhall",5621,"North","John Wilson",67.26,41,"e",12.73,"Wood establishment","Oak (sessile)","Birch (downy/silver)",2012,"6-25ha",14
+"117","Low Burnhall",5621,"North","John Wilson",67.26,41,"f",4.93,"Wood establishment","Oak (sessile)","Ash",2011,"0-5ha",15
+"118","Low Burnhall",5621,"North","John Wilson",67.26,41,"h",3.06,"Wood establishment","Oak (sessile)","Ash",2011,"0-5ha",15
+"119","Low Burnhall",5621,"North","John Wilson",67.26,41,"j",4.06,"Wood establishment","Oak (sessile)","Ash",2011,"0-5ha",15
+"120","Low Burnhall",5621,"North","John Wilson",67.26,41,"k",10.02,"Wood establishment","Oak (sessile)","Ash",2010,"6-25ha",16
+"121","Low Burnhall",5621,"North","John Wilson",67.26,41,"p",0.75,"Wood establishment","other willows","Alder species",2010,"0-5ha",16
+"122","Low Burnhall",5621,"North","John Wilson",67.26,41,"n",2.33,"Wood establishment","Oak (sessile)","Ash",2010,"0-5ha",16
+"123","Low Burnhall",5621,"North","John Wilson",67.26,41,"o",2.35,"Wood establishment","Ash","Oak (sessile)",2010,"0-5ha",16
+"124","Low Burnhall",5621,"North","John Wilson",67.26,41,"s",1.09,"Wood establishment","Ash","Oak (sessile)",2010,"0-5ha",16
+"125","Low Burnhall",5621,"North","John Wilson",67.26,41,"l",3.71,"Wood establishment","Alder species","other willows",2011,"0-5ha",15
+"126","Low Burnhall",5621,"North","John Wilson",67.26,41,"d",6.39,"Wood establishment","Oak (sessile)","Ash",2012,"6-25ha",14
+"127","Low Burnhall",5621,"North","John Wilson",67.26,41,"c",1.2,"Wood establishment","Oak (sessile)","Rowan",2012,"0-5ha",14
+"128","Low Burnhall",5621,"North","John Wilson",67.26,41,"m",3.75,"Wood establishment","Oak (sessile)","Ash",2010,"0-5ha",16
+"129","Low Burnhall",5621,"North","John Wilson",67.26,41,"q",2.2,"Wood establishment","Oak (sessile)","Ash",2010,"0-5ha",16
+"130","Cwm Mynach",5630,"Wales","John Phillips",382.43,1,"a",6.47,"Wood establishment","Oak (sessile)","Birch (downy/silver)",2015,"6-25ha",11
+"131","Cwm Mynach",5630,"Wales","John Phillips",382.43,3,"a",6.38,"Wood establishment","Oak (sessile)","Oak (sessile)",2013,"6-25ha",13
+"132","Cwm Mynach",5630,"Wales","John Phillips",382.43,4,"a",5.22,"Wood establishment","Mixed broadleaves","Mixed broadleaves",2002,"6-25ha",24
+"133","Cwm Mynach",5630,"Wales","John Phillips",382.43,18,"a",9.24,"Wood establishment","Mixed native broadleaves","Mixed native broadleaves",2013,"6-25ha",13
+"134","Glen Sherup",5507,"Scotland","Izzy Filor",603.51,1,"a",344.93,"Wood establishment","Mixed native broadleaves","NULL",2003,"50+ha",23
+"135","Glen Sherup",5507,"Scotland","Izzy Filor",603.51,1,"b",257.43,"Wood establishment","Mixed native broadleaves","NULL",2004,"50+ha",22
+"136","Formonthills",4850,"Scotland","Jill Aitken",86.69,8,"e",1.08,"Wood establishment","Mixed broadleaves","NULL",2019,"0-5ha",7
+"137","Formonthills",4850,"Scotland","Jill Aitken",86.69,8,"g",0.33,"Wood establishment","Mixed native broadleaves","NULL",2019,"0-5ha",7
+"138","Formonthills",4850,"Scotland","Jill Aitken",86.69,8,"h",0.2,"Wood establishment","Mixed native broadleaves","NULL",2018,"0-5ha",8
+"139","Formonthills",4850,"Scotland","Jill Aitken",86.69,8,"i",0.99,"Wood establishment","Mixed native broadleaves","NULL",2018,"0-5ha",8
+"140","Glen Finglas",4878,"Scotland","Hamish Thomson",4051.81,11,"a",1286.84,"Wood establishment","Mixed native broadleaves","NULL",2000,"50+ha",26
+"141","Glen Finglas",4878,"Scotland","Hamish Thomson",4051.81,8,"a",625.09,"Wood establishment","Mixed native broadleaves","NULL",2006,"50+ha",20
+"142","Glen Finglas",4878,"Scotland","Hamish Thomson",4051.81,14,"a",555.31,"Wood establishment","Mixed native broadleaves","NULL",2008,"50+ha",18
+"143","Glen Finglas",4878,"Scotland","Hamish Thomson",4051.81,13,"b",150.63,"Wood establishment","Mixed native broadleaves","NULL",2017,"50+ha",9
+"144","Glen Finglas",4878,"Scotland","Hamish Thomson",4051.81,15,"a",23.26,"Wood establishment","Mixed native broadleaves","NULL",2010,"6-25ha",16
+"145","Lang Craigs",5632,"Scotland","Izzy Filor",239.31,1,"a",4.16,"Wood establishment","Mixed native broadleaves","NULL",2012,"0-5ha",14
+"146","Lang Craigs",5632,"Scotland","Izzy Filor",239.31,1,"b",2.39,"Wood establishment","Mixed native broadleaves","NULL",2012,"0-5ha",14
+"147","Lang Craigs",5632,"Scotland","Izzy Filor",239.31,1,"c",2.22,"Wood establishment","Mixed native broadleaves","NULL",2012,"0-5ha",14
+"148","Lang Craigs",5632,"Scotland","Izzy Filor",239.31,1,"d",4.11,"Wood establishment","Mixed native broadleaves","NULL",2012,"0-5ha",14
+"149","Lang Craigs",5632,"Scotland","Izzy Filor",239.31,1,"e",4.32,"Wood establishment","Mixed native broadleaves","NULL",2013,"0-5ha",13
+"150","Lang Craigs",5632,"Scotland","Izzy Filor",239.31,1,"f",1.45,"Wood establishment","Mixed native broadleaves","NULL",2014,"0-5ha",12
+"151","Lang Craigs",5632,"Scotland","Izzy Filor",239.31,1,"g",2.08,"Wood establishment","Mixed native broadleaves","NULL",2014,"0-5ha",12
+"152","Lang Craigs",5632,"Scotland","Izzy Filor",239.31,3,"a",2.68,"Wood establishment","Mixed native broadleaves","NULL",2012,"0-5ha",14
+"153","Lang Craigs",5632,"Scotland","Izzy Filor",239.31,3,"b",2.97,"Wood establishment","Mixed native broadleaves","NULL",2012,"0-5ha",14
+"154","Lang Craigs",5632,"Scotland","Izzy Filor",239.31,3,"c",10.56,"Wood establishment","Mixed native broadleaves","NULL",2012,"6-25ha",14
+"155","Lang Craigs",5632,"Scotland","Izzy Filor",239.31,5,"a",29.15,"Wood establishment","Mixed native broadleaves","NULL",2013,"26-50ha",13
+"156","Lang Craigs",5632,"Scotland","Izzy Filor",239.31,7,"a",34.88,"Wood establishment","Mixed native broadleaves","Open ground",2013,"26-50ha",13
+"157","Lang Craigs",5632,"Scotland","Izzy Filor",239.31,9,"b",5.43,"Wood establishment","Mixed native broadleaves","NULL",2013,"6-25ha",13
+"158","Lang Craigs",5632,"Scotland","Izzy Filor",239.31,10,"a",5.8,"Wood establishment","Mixed native broadleaves","NULL",2012,"6-25ha",14
+"159","Lang Craigs",5632,"Scotland","Izzy Filor",239.31,10,"b",5.18,"Wood establishment","Mixed native broadleaves","NULL",2013,"6-25ha",13
+"160","Lang Craigs",5632,"Scotland","Izzy Filor",239.31,11,"a",3.38,"Wood establishment","Mixed native broadleaves","NULL",2013,"0-5ha",13
+"161","Lang Craigs",5632,"Scotland","Izzy Filor",239.31,9,"a",38.67,"Wood establishment","Mixed native broadleaves","NULL",2013,"26-50ha",13
+"162","Lang Craigs",5632,"Scotland","Izzy Filor",239.31,11,"b",9.75,"Wood establishment","Mixed native broadleaves","NULL",2014,"6-25ha",12
+"163","Lang Craigs",5632,"Scotland","Izzy Filor",239.31,11,"c",1.88,"Wood establishment","Mixed native broadleaves","NULL",2014,"0-5ha",12
+"164","Lang Craigs",5632,"Scotland","Izzy Filor",239.31,11,"d",1.89,"Wood establishment","Mixed native broadleaves","NULL",2014,"0-5ha",12
+"165","Coed y Cadno",5438,"Wales","Third Party Manager",3.09,1,"b",2.78,"Wood establishment","Oak (sessile)","NULL",2000,"0-5ha",26
+"166","Queen Elizabeth Diamond Jubilee Wood",5658,"Central","David Logan",50.52,1,"a",28.29,"Wood establishment","Mixed native broadleaves","NULL",2012,"26-50ha",14
+"167","Queen Elizabeth Diamond Jubilee Wood",5658,"Central","David Logan",50.52,1,"c",27.14,"Wood establishment","Mixed native broadleaves","NULL",2013,"26-50ha",13
+"168","Queen Elizabeth Diamond Jubilee Wood",5658,"Central","David Logan",50.52,2,"a",5.78,"Wood establishment","Mixed native broadleaves","NULL",2013,"6-25ha",13
+"169","Queen Elizabeth Diamond Jubilee Wood",5658,"Central","David Logan",50.52,2,"b",7.19,"Wood establishment","Mixed native broadleaves","NULL",2013,"6-25ha",13
+"170","Queen Elizabeth Diamond Jubilee Wood",5658,"Central","David Logan",50.52,1,"b",16.34,"Wood establishment","Mixed native broadleaves","NULL",2012,"6-25ha",14
+"171","Queen Elizabeth Diamond Jubilee Wood",5658,"Central","David Logan",50.52,1,"e",7.13,"Wood establishment","Mixed native broadleaves","NULL",2013,"6-25ha",13
+"172","Queen Elizabeth Diamond Jubilee Wood",5658,"Central","David Logan",50.52,3,"a",14.07,"Wood establishment","Mixed native broadleaves","NULL",2013,"6-25ha",13
+"173","Queen Elizabeth Diamond Jubilee Wood",5658,"Central","David Logan",50.52,1,"f",5.45,"Wood establishment","Mixed native broadleaves","NULL",2012,"6-25ha",14
+"174","Queen Elizabeth Diamond Jubilee Wood",5658,"Central","David Logan",50.52,1,"d",14.48,"Wood establishment","Mixed native broadleaves","NULL",2012,"6-25ha",14
+"175","Queen Elizabeth Diamond Jubilee Wood",5658,"Central","David Logan",50.52,3,"b",9.89,"Wood establishment","Mixed native broadleaves","NULL",2013,"6-25ha",13
+"176","Ledmore & Migdale",4862,"Scotland","Ross Watson",690.98,1,"b",3.09,"Wood establishment","Mixed native broadleaves","NULL",2013,"0-5ha",13
+"177","Haddon Wood",5659,"South West","Emily Bennett",5.55,1,"a",4.55,"Wood establishment","Mixed native broadleaves","NULL",2013,"0-5ha",13
+"178","Haddon Wood",5659,"South West","Emily Bennett",5.55,2,"a",5.83,"Wood establishment","Mixed native broadleaves","NULL",2014,"6-25ha",12
+"179","Dutton Park",5578,"North","Neil Oxley",64.05,2,"a",5.79,"Wood establishment","Oak (pedunculate)","Ash",2007,"6-25ha",19
+"180","Dutton Park",5578,"North","Neil Oxley",64.05,7,"a",6.96,"Wood establishment","other oak spp","Ash",2001,"6-25ha",25
+"181","Dutton Park",5578,"North","Neil Oxley",64.05,2,"b",2.98,"Wood establishment","Birch (downy/silver)","Oak (pedunculate)",2007,"0-5ha",19
+"182","Dutton Park",5578,"North","Neil Oxley",64.05,3,"a",4.38,"Wood establishment","Oak (pedunculate)","Ash",2006,"0-5ha",20
+"183","Dutton Park",5578,"North","Neil Oxley",64.05,1,"a",16.02,"Wood establishment","Oak (pedunculate)","Ash",2006,"6-25ha",20
+"184","Langley Vale Wood",5668,"South East","Jenny Price",259.69,1,"d",4.63,"Wood establishment","Oak (pedunculate)","Beech",2017,"0-5ha",9
+"185","Langley Vale Wood",5668,"South East","Jenny Price",259.69,1,"b",36.73,"Wood establishment","Oak (pedunculate)","Beech",2017,"26-50ha",9
+"186","Langley Vale Wood",5668,"South East","Jenny Price",259.69,2,"a",0.87,"Wood establishment","Oak (pedunculate)","Beech",2019,"0-5ha",7
+"187","Langley Vale Wood",5668,"South East","Jenny Price",259.69,2,"g",8.05,"Wood establishment","Hazel","Oak (pedunculate)",2017,"6-25ha",9
+"188","Langley Vale Wood",5668,"South East","Jenny Price",259.69,2,"e",9.12,"Wood establishment","Oak (pedunculate)","Beech",2014,"6-25ha",12
+"189","Langley Vale Wood",5668,"South East","Jenny Price",259.69,2,"o",3.8,"Wood establishment","Hazel","Oak (pedunculate)",2017,"0-5ha",9
+"190","Langley Vale Wood",5668,"South East","Jenny Price",259.69,2,"u",0.69,"Wood establishment","Hazel","Hawthorn species",2017,"0-5ha",9
+"191","Langley Vale Wood",5668,"South East","Jenny Price",259.69,2,"q",0.87,"Wood establishment","Hawthorn species","Field maple",2018,"0-5ha",8
+"192","Langley Vale Wood",5668,"South East","Jenny Price",259.69,2,"s",1.91,"Wood establishment","Oak (pedunculate)","Beech",2018,"0-5ha",8
+"193","Langley Vale Wood",5668,"South East","Jenny Price",259.69,2,"i",2.57,"Wood establishment","Oak (pedunculate)","Beech",2017,"0-5ha",9
+"194","Langley Vale Wood",5668,"South East","Jenny Price",259.69,2,"j",8.46,"Wood establishment","Oak (pedunculate)","Beech",2018,"6-25ha",8
+"195","Langley Vale Wood",5668,"South East","Jenny Price",259.69,2,"l",4.47,"Wood establishment","Mixed native broadleaves","NULL",2018,"0-5ha",8
+"196","Langley Vale Wood",5668,"South East","Jenny Price",259.69,3,"a",13.04,"Wood establishment","Oak (pedunculate)","Beech",2019,"6-25ha",7
+"197","Langley Vale Wood",5668,"South East","Jenny Price",259.69,4,"a",6.85,"Wood establishment","Mixed native broadleaves","NULL",2015,"6-25ha",11
+"198","Langley Vale Wood",5668,"South East","Jenny Price",259.69,1,"k",3.24,"Wood establishment","Mixed native broadleaves","Sycamore",2018,"0-5ha",8
+"199","Coed Ffos Las",5670,"Wales","Chris Matts",49.93,1,"b",6.02,"Wood establishment","Oak (sessile)","Alder species",2016,"6-25ha",10
+"200","Coed Ffos Las",5670,"Wales","Chris Matts",49.93,3,"c",0.78,"Wood establishment","Sessile oak","Birch (downy/silver)",2017,"0-5ha",9
+"201","Falkender Wood",5672,"North","Heather Swift",1.43,1,"a",1.43,"Wood establishment","Oak (pedunculate)","Mixed native broadleaves",2018,"0-5ha",8
+"202","Comfort's Wood",4433,"South East","Sam Pettman",11.19,4,"c",1.1,"Wood establishment","Oak (pedunculate)","Ash",2017,"0-5ha",9
+"203","Comfort's Wood",4433,"South East","Sam Pettman",11.19,4,"b",0.97,"Wood establishment","Oak (pedunculate)","Ash",2017,"0-5ha",9
+"204","Dransfield Wood",5675,"North","Tilhill Forestry",1.62,1,"b",0.06,"Wood establishment","Hazel","Hawthorn species",2020,"0-5ha",6
+"205","Dransfield Wood",5675,"North","Tilhill Forestry",1.62,1,"c",0.19,"Wood establishment","Wild cherry/gean","Hazel",2020,"0-5ha",6
+"206","Dransfield Wood",5675,"North","Tilhill Forestry",1.62,1,"a",1.37,"Wood establishment","Wild cherry/gean","Hazel",2020,"0-5ha",6
+"207","Little Swine Carr Wood",5674,"North","Jess Darwin",3.3,1,"a",2.97,"Wood establishment","other oak spp","Ash",2000,"0-5ha",26
+"208","Goodhart's Wood",5696,"North","Jess Darwin",1.48,2,"a",0.17,"Wood establishment","Hazel","Silver birch",2018,"0-5ha",8
+"209","Sparkford Wood",5698,"South West","Tilhill Forestry",11.6,4,"a",2.01,"Wood establishment","Oak (pedunculate)","Hazel",2018,"0-5ha",8
+"210","Sparkford Wood",5698,"South West","Tilhill Forestry",11.6,3,"a",1.09,"Wood establishment","Oak (pedunculate)","Hazel",2018,"0-5ha",8
+"211","Kinclaven Bluebell Wood",5700,"Scotland","Jill Aitken",81.02,2,"a",3.05,"Wood establishment","Mixed native broadleaves","Scots pine",2018,"0-5ha",8
+"212","Kinclaven Bluebell Wood",5700,"Scotland","Jill Aitken",81.02,3,"a",4.56,"Wood establishment","Mixed native broadleaves","Scots pine",2019,"0-5ha",7
+"213","Kinclaven Bluebell Wood",5700,"Scotland","Jill Aitken",81.02,4,"a",21.33,"Wood establishment","Mixed native broadleaves","Scots pine",2020,"6-25ha",6
+"214","Kinclaven Bluebell Wood",5700,"Scotland","Jill Aitken",81.02,1,"c",1.42,"Wood establishment","Mixed native broadleaves","NULL",2022,"0-5ha",4
+"215","Heartwood Forest",5622,"Central","Luke Shenton",346.72,2,"e",20.14,"Wood establishment","Oak (sessile)","NULL",2012,"6-25ha",14
+"216","Heartwood Forest",5622,"Central","Luke Shenton",346.72,2,"a",17.82,"Wood establishment","Open ground","NULL",2009,"6-25ha",17
+"217","Heartwood Forest",5622,"Central","Luke Shenton",346.72,3,"b",3.17,"Wood establishment","Oak (sessile)","NULL",2010,"0-5ha",16
+"218","Heartwood Forest",5622,"Central","Luke Shenton",346.72,3,"c",5.2,"Wood establishment","Oak (sessile)","NULL",2011,"6-25ha",15
+"219","Heartwood Forest",5622,"Central","Luke Shenton",346.72,3,"e",4.95,"Wood establishment","Oak (sessile)","NULL",2012,"0-5ha",14
+"220","Heartwood Forest",5622,"Central","Luke Shenton",346.72,4,"a",17.8,"Wood establishment","Oak (sessile)","NULL",2010,"6-25ha",16
+"221","Heartwood Forest",5622,"Central","Luke Shenton",346.72,4,"b",8.25,"Wood establishment","Oak (sessile)","NULL",2011,"6-25ha",15
+"222","Heartwood Forest",5622,"Central","Luke Shenton",346.72,3,"d",17.89,"Wood establishment","Oak (sessile)","NULL",2011,"6-25ha",15
+"223","Heartwood Forest",5622,"Central","Luke Shenton",346.72,4,"c",15.75,"Wood establishment","Oak (sessile)","NULL",2011,"6-25ha",15
+"224","Heartwood Forest",5622,"Central","Luke Shenton",346.72,4,"d",5,"Wood establishment","Oak (sessile)","NULL",2010,"0-5ha",16
+"225","Heartwood Forest",5622,"Central","Luke Shenton",346.72,4,"e",7.93,"Wood establishment","Oak (sessile)","NULL",2013,"6-25ha",13
+"226","Heartwood Forest",5622,"Central","Luke Shenton",346.72,4,"f",18.76,"Wood establishment","Oak (sessile)","NULL",2013,"6-25ha",13
+"227","Heartwood Forest",5622,"Central","Luke Shenton",346.72,6,"a",34.74,"Wood establishment","Oak (sessile)","NULL",2015,"26-50ha",11
+"228","Heartwood Forest",5622,"Central","Luke Shenton",346.72,5,"c",28.37,"Wood establishment","Oak (sessile)","NULL",2012,"26-50ha",14
+"229","Heartwood Forest",5622,"Central","Luke Shenton",346.72,5,"b",4.64,"Wood establishment","Oak (sessile)","NULL",2011,"0-5ha",15
+"230","Heartwood Forest",5622,"Central","Luke Shenton",346.72,7,"c",6.43,"Wood establishment","Open ground","NULL",2017,"6-25ha",9
+"231","Heartwood Forest",5622,"Central","Luke Shenton",346.72,7,"a",6.02,"Wood establishment","Open ground","NULL",2017,"6-25ha",9
+"232","Heartwood Forest",5622,"Central","Luke Shenton",346.72,7,"b",32.98,"Wood establishment","Open ground","NULL",2017,"26-50ha",9
+"233","Heartwood Forest",5622,"Central","Luke Shenton",346.72,2,"b",8.21,"Wood establishment","Oak (sessile)","NULL",2010,"6-25ha",16
+"234","Heartwood Forest",5622,"Central","Luke Shenton",346.72,3,"a",4.4,"Wood establishment","Ash","NULL",2008,"0-5ha",18
+"235","Heartwood Forest",5622,"Central","Luke Shenton",346.72,5,"a",13.64,"Wood establishment","Oak (sessile)","NULL",2010,"6-25ha",16
+"236","Heartwood Forest",5622,"Central","Luke Shenton",346.72,1,"b",46.37,"Wood establishment","Oak (sessile)","NULL",2009,"26-50ha",17
+"237","Smithills Estate",5669,"North","Oliver Stainthorpe",682.27,1,"b",2.31,"Wood establishment","Mixed native broadleaves","Oak (pedunculate)",2020,"0-5ha",6
+"238","Smithills Estate",5669,"North","Oliver Stainthorpe",682.27,1,"c",2.07,"Wood establishment","Mixed native broadleaves","Juniper",2017,"0-5ha",9
+"239","Smithills Estate",5669,"North","Oliver Stainthorpe",682.27,2,"b",10.41,"Wood establishment","Mixed broadleaves","NULL",2020,"6-25ha",6
+"240","Smithills Estate",5669,"North","Oliver Stainthorpe",682.27,4,"b",1.64,"Wood establishment","Mixed broadleaves","NULL",2018,"0-5ha",8
+"241","Smithills Estate",5669,"North","Oliver Stainthorpe",682.27,4,"c",3.07,"Wood establishment","Mixed broadleaves","NULL",2019,"0-5ha",7
+"242","Smithills Estate",5669,"North","Oliver Stainthorpe",682.27,4,"d",2.33,"Wood establishment","Mixed native broadleaves","NULL",2019,"0-5ha",7
+"243","Smithills Estate",5669,"North","Oliver Stainthorpe",682.27,5,"b",6.05,"Wood establishment","Mixed broadleaves","NULL",2019,"6-25ha",7
+"244","Smithills Estate",5669,"North","Oliver Stainthorpe",682.27,8,"b",2.45,"Wood establishment","Mixed native broadleaves","NULL",2021,"0-5ha",5
+"245","Smithills Estate",5669,"North","Oliver Stainthorpe",682.27,11,"b",0.53,"Wood establishment","Mixed native broadleaves","NULL",2018,"0-5ha",8
+"246","Smithills Estate",5669,"North","Oliver Stainthorpe",682.27,12,"b",3.13,"Wood establishment","Mixed broadleaves","NULL",2018,"0-5ha",8
+"247","Smithills Estate",5669,"North","Oliver Stainthorpe",682.27,12,"c",3.78,"Wood establishment","Mixed native broadleaves","NULL",2018,"0-5ha",8
+"248","Smithills Estate",5669,"North","Oliver Stainthorpe",682.27,17,"b",1.85,"Wood establishment","Mixed broadleaves","NULL",2020,"0-5ha",6
+"249","Smithills Estate",5669,"North","Oliver Stainthorpe",682.27,17,"c",1.17,"Wood establishment","NULL","NULL",2020,"0-5ha",6
+"250","Smithills Estate",5669,"North","Oliver Stainthorpe",682.27,22,"b",1.1,"Wood establishment","Mixed native broadleaves","NULL",2020,"0-5ha",6
+"251","Smithills Estate",5669,"North","Oliver Stainthorpe",682.27,26,"b",1.47,"Wood establishment","Mixed native broadleaves","Oak (pedunculate)",2020,"0-5ha",6
+"252","Smithills Estate",5669,"North","Oliver Stainthorpe",682.27,12,"d",1.23,"Wood establishment","Mixed native broadleaves","NULL",2021,"0-5ha",5
+"253","Rivermead",5808,"South West","David Rickwood",7.97,16,"g",7.53,"Wood establishment","Common alder","Silver birch",2003,"6-25ha",23
+"254","Avoncliff Wood",5699,"South West","Emily Bennett",30.13,2,"a",11.79,"Wood establishment","Mixed native broadleaves","Open ground",2019,"6-25ha",7
+"255","Brynau Farm",5810,"Wales","Chris Matts",72.03,2,"a",7.55,"Wood establishment","Sessile oak","Downy birch",2021,"6-25ha",5
+"256","Brynau Farm",5810,"Wales","Chris Matts",72.03,2,"b",6.35,"Wood establishment","Downy birch","Alder species",2021,"6-25ha",5
+"257","Brynau Farm",5810,"Wales","Chris Matts",72.03,2,"c",1.42,"Wood establishment","Hawthorn species","Alder species",2021,"0-5ha",5
+"258","Brynau Farm",5810,"Wales","Chris Matts",72.03,4,"a",17.4,"Wood establishment","Oak (sessile)","Mixed native broadleaves",2020,"6-25ha",6
+"259","Brynau Farm",5810,"Wales","Chris Matts",72.03,3,"c",5.53,"Wood establishment","Oak (sessile)","Open ground",2020,"6-25ha",6
+"260","Brynau Farm",5810,"Wales","Chris Matts",72.03,7,"a",11.65,"Wood establishment","Oak (sessile)","Mixed native broadleaves",2022,"6-25ha",4
+"261","Brynau Farm",5810,"Wales","Chris Matts",72.03,7,"b",7.35,"Wood establishment","Black poplar","Lime species",2022,"6-25ha",4
+"262","Beaulieu Wood",5477,"Wales","Rob Davies",16.65,2,"d",6.17,"Wood establishment","NULL","NULL",2024,"6-25ha",2
+"263","Beaulieu Wood",5477,"Wales","Rob Davies",16.65,2,"c",1.54,"Wood establishment","NULL","NULL",2024,"0-5ha",2
+"264","Young People's Forest at Mead",5707,"North","Chris Williams",161.29,16,"a",3.08,"Wood establishment","Oak (sessile)","Birch (downy/silver)",2022,"0-5ha",4
+"265","Young People's Forest at Mead",5707,"North","Chris Williams",161.29,20,"a",5.08,"Wood establishment","Oak (sessile)","Birch (downy/silver)",2020,"6-25ha",6
+"266","Young People's Forest at Mead",5707,"North","Chris Williams",161.29,11,"a",1.84,"Wood establishment","Oak (sessile)","Birch (downy/silver)",2020,"0-5ha",6
+"267","Young People's Forest at Mead",5707,"North","Chris Williams",161.29,2,"a",10.86,"Wood establishment","Sessile oak","Birch (downy/silver)",2019,"6-25ha",7
+"268","Young People's Forest at Mead",5707,"North","Chris Williams",161.29,1,"a",19.34,"Wood establishment","Sessile oak","Birch (downy/silver)",2019,"6-25ha",7
+"269","Young People's Forest at Mead",5707,"North","Chris Williams",161.29,5,"a",1.13,"Wood establishment","Sessile oak","Birch (downy/silver)",2020,"0-5ha",6
+"270","Young People's Forest at Mead",5707,"North","Chris Williams",161.29,4,"a",1.78,"Wood establishment","Sessile oak","Other",2020,"0-5ha",6
+"271","Young People's Forest at Mead",5707,"North","Chris Williams",161.29,6,"a",0.76,"Wood establishment","Sessile oak","Birch (downy/silver)",2020,"0-5ha",6
+"272","Young People's Forest at Mead",5707,"North","Chris Williams",161.29,7,"a",1.61,"Wood establishment","Sessile oak","Birch (downy/silver)",2021,"0-5ha",5
+"273","Young People's Forest at Mead",5707,"North","Chris Williams",161.29,15,"a",1.76,"Wood establishment","Oak (sessile)","Birch (downy/silver)",2021,"0-5ha",5
+"274","Young People's Forest at Mead",5707,"North","Chris Williams",161.29,18,"a",1.81,"Wood establishment","Sessile oak","Birch (downy/silver)",2021,"0-5ha",5
+"275","Young People's Forest at Mead",5707,"North","Chris Williams",161.29,21,"a",1.43,"Wood establishment","Oak (sessile)","Birch (downy/silver)",2021,"0-5ha",5
+"276","Young People's Forest at Mead",5707,"North","Chris Williams",161.29,23,"a",1.29,"Wood establishment","Sessile oak","Birch (downy/silver)",2021,"0-5ha",5
+"277","Young People's Forest at Mead",5707,"North","Chris Williams",161.29,10,"a",1.45,"Wood establishment","Sessile oak","Birch (downy/silver)",2020,"0-5ha",6
+"278","Young People's Forest at Mead",5707,"North","Chris Williams",161.29,14,"a",11.95,"Wood establishment","Sessile oak","Birch (downy/silver)",2022,"6-25ha",4
+"279","Young People's Forest at Mead",5707,"North","Chris Williams",161.29,12,"a",8.65,"Wood establishment","Sessile oak","Birch (downy/silver)",2020,"6-25ha",6
+"280","Young People's Forest at Mead",5707,"North","Chris Williams",161.29,17,"a",5.35,"Wood establishment","Sessile oak","Birch (downy/silver)",2021,"6-25ha",5
+"281","Young People's Forest at Mead",5707,"North","Chris Williams",161.29,19,"a",2.92,"Wood establishment","Oak (sessile)","Birch (downy/silver)",2020,"0-5ha",6
+"282","Young People's Forest at Mead",5707,"North","Chris Williams",161.29,9,"a",21.58,"Wood establishment","Sessile oak","Birch (downy/silver)",2020,"6-25ha",6
+"283","Young People's Forest at Mead",5707,"North","Chris Williams",161.29,8,"a",1.88,"Wood establishment","Sessile oak","Birch (downy/silver)",2021,"0-5ha",5
+"284","Young People's Forest at Mead",5707,"North","Chris Williams",161.29,26,"a",2.93,"Wood establishment","Oak (sessile)","Birch (downy/silver)",2016,"0-5ha",10
+"285","Swindells' Wood",5717,"North","Colin Riley",13.29,1,"e",2.8,"Wood establishment","Oak (sessile)","Silver birch",2020,"0-5ha",6
+"286","Swindells' Wood",5717,"North","Colin Riley",13.29,1,"d",2.42,"Wood establishment","Oak (sessile)","Silver birch",2020,"0-5ha",6
+"287","Swindells' Wood",5717,"North","Colin Riley",13.29,2,"c",4.07,"Wood establishment","Silver birch","Aspen",2020,"0-5ha",6
+"288","Murieston Woods",4892,"Scotland","Hannah Patterson",3.4,43,"b",0.59,"Wood establishment","Mixed broadleaves","Grey willow",2005,"0-5ha",21
+"289","Snaizeholme",5822,"North","Alec Pue",224.25,1,"a",32.11,"Wood establishment","Common alder","Aspen",2023,"26-50ha",3
+"290","Yonder Oak Wood",5240,"South West","Sam Hamer",17.44,1,"a",14.17,"Wood establishment","Oak (pedunculate)","Field maple",2023,"6-25ha",3
+"291","Thompson Wood",5720,"Central","Tom Bolderstone",112.55,1,"a",7.07,"Wood establishment","NULL","NULL",2024,"6-25ha",2
+"292","Thompson Wood",5720,"Central","Tom Bolderstone",112.55,1,"a",2.81,"Wood establishment","NULL","NULL",2024,"0-5ha",2
+"293","Thompson Wood",5720,"Central","Tom Bolderstone",112.55,1,"b",4.6,"Wood establishment","NULL","NULL",2024,"0-5ha",2
+"294","Thompson Wood",5720,"Central","Tom Bolderstone",112.55,1,"c",3.34,"Wood establishment","NULL","NULL",2024,"0-5ha",2
+"295","Thompson Wood",5720,"Central","Tom Bolderstone",112.55,1,"a",0.74,"Wood establishment","NULL","NULL",2024,"0-5ha",2
+"296","Gillian's Wood",5835,"South West","Richard Brown",56.53,4,"a",1.01,"Wood establishment","Oak (pedunculate)","Sweet chestnut",2020,"0-5ha",6
+"297","Gillian's Wood",5835,"South West","Richard Brown",56.53,4,"b",0.88,"Wood establishment","Oak (pedunculate)","Sweet chestnut",2020,"0-5ha",6
+"298","Gillian's Wood",5835,"South West","Richard Brown",56.53,4,"c",0.7,"Wood establishment","Oak (pedunculate)","Sweet chestnut",2020,"0-5ha",6
+"299","Gillian's Wood",5835,"South West","Richard Brown",56.53,4,"d",0.92,"Wood establishment","Oak (pedunculate)","Sweet chestnut",2020,"0-5ha",6
+"300","Frodsham Woods",3242,"North","Neil Oxley",38.18,1,"a",32.7,"Wood establishment","Oak (sessile)","Birch (downy/silver)",2023,"26-50ha",3
+"301","New Copse",5831,"South East","James Stevenson",61.4,2,"g",1.1,"Wood establishment","Birch (downy/silver)","Pedunculate/common oak",2008,"0-5ha",18
