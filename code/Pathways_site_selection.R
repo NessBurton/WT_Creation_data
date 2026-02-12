@@ -62,26 +62,38 @@ dfSites3 <- tibble(dfSites2) |>
 dfSites4 <- tibble(dfSites3) |> 
   filter(Management.Regime == "Wood establishment") |> 
   mutate(Year = as.numeric(Year),
-         Area_ha = as.numeric(Area_ha)) |> 
+         Area_ha = as.numeric(Area_ha),
+         Ha_band = ifelse(Area_ha <= 5, "0-5",
+                          ifelse(Area_ha <=25, "6-25",
+                                 ifelse(Area_ha <=50, "26-50","50+")))) |> 
   # add something for at least 5 ha
-  filter(Area_ha >= 5) |> 
-  filter(Year <= 2005) |> 
-  mutate(WoodAge = 2026 - Year) |> 
-  filter(WoodAge <=30)
+  #filter(Area_ha >= 5) |> 
+  filter(Year >= 2000) |> 
+  mutate(WoodAge = 2026 - Year) #|> 
+  #filter(WoodAge <=30)
 
 dfSites4
 
 (p1 <- ggplot(dfSites4, aes(x=Main.Species, fill = Main.Species))+
-  geom_bar()+
-  facet_wrap(~Region, nrow = 2) + 
-  theme(axis.text.x = element_text(angle = 90)))
+    geom_bar()+
+    facet_wrap(~Region, nrow = 2) + 
+    theme_bw()+
+    theme(axis.text.x = element_text(angle = 90)))
 
-ggsave(filename = paste0(dirFigs,"WT_creation_20-30yrs_min5ha_by_region_and_main_spp.jpg"), p1)
+#ggsave(filename = paste0(dirFigs,"WT_creation_20-30yrs_min5ha_by_region_and_main_spp.jpg"), p1)
+ggsave(filename = paste0(dirFigs,"WT_creation_by_region_and_main_spp.jpg"), p1)
 
-ggplot(dfSites4, aes(x=Year, fill = Region))+
+dfSites4 <- dfSites4|> 
+  mutate(Ha_band = factor(Ha_band, levels = c("0-5", "6-25", "26-50", "50+")))
+
+(p2 <- ggplot(dfSites4, aes(x=Year, fill = Region))+
   geom_bar()+
-  #facet_wrap(~Region, nrow = 2) + 
-  theme(axis.text.x = element_text(angle = 45))
+  facet_wrap(~Ha_band) + 
+  theme_bw())
+
+ggsave(filename = paste0(dirFigs,"WT_creation_by_region_and_size.jpg"), p2)
+
+write.csv(dfSites4, paste0(dirOut,"WT_creation_sites_since_2000.csv"))
 
 unique(dfSites4$WoodName) # 46 sites
 mean(dfSites4$Hectares) # average site size 127ha
